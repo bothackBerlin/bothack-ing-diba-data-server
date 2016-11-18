@@ -1,0 +1,14 @@
+{
+  "name": "bothack-ing-diba-data-server",
+  "version": "1.0.0",
+  "repository": {
+    "url": "git@github.com:bothackBerlin/bothack-ing-diba-data-server.git",
+    "type": "git"
+  },
+  "author": "Maximilian Goisser <goisser94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "random-seed": "^0.3.0"
+  }
+}
