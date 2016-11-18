@@ -7,7 +7,7 @@ for the [ING-DiBa data challenge][ingdiba-challenge] at bothack.berlin.
 
 ## Routes
 
-### GET /atms/zipcode/:zipcode
+### GET /atms/zipcode/:zipcode (Get ATM by zipcode)
 
 Request: `GET /atms/zipcode/12524`
 
@@ -29,7 +29,7 @@ Response:
 }
 ```
 
-### GET /users/:userid
+### GET /users/:userid (Get user and their account)
 
 Request: `GET /users/12524`
 
@@ -48,6 +48,38 @@ Response:
 
 ```
 
+### GET /users/:userid/transactions (Get transaction history of user)
+
+Request: `GET /users/12524/transactions` (number of transactions in example truncated)
+
+```
+{
+  "type": "list.transaction",
+  "data": [
+    {
+      "type": "transaction",
+      "card_type": "visa",
+      "card_number": 4684405558678853,
+      "withdrawl_at": "2016-01-03T03:39:12.000Z",
+      "withdrawl_amount": 75
+    },
+    {
+      "type": "transaction",
+      "card_type": "visa",
+      "card_number": 4684405558678853,
+      "withdrawl_at": "2016-01-10T14:04:20.000Z",
+      "withdrawl_amount": 45
+    },
+    {
+      "type": "transaction",
+      "card_type": "visa",
+      "card_number": 4684405558678853,
+      "withdrawl_at": "2016-01-20T09:36:01.000Z",
+      "withdrawl_amount": 125
+    }
+  ]
+}
+```
 
 ## Starting the server
 

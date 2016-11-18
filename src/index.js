@@ -57,6 +57,36 @@ function generateFakeUser(id) {
 
 function generateFakeTransactionHistory(id) {
   var user = generateFakeUser(id);
+
+  faker.seed(parseInt(id));
+  faker.locale = 'de';
+  var rng = gen.create(id);
+
+  var numTransactions = rng.intBetween(10, 40);
+  var transactions = [];
+  for (var i = 0; i < numTransactions; i++) {
+    var transaction = { "type": "transaction" };
+
+    var giro_used = random.randomBoolean(rng);
+    if (giro_used) {
+      transaction.card_type = "giro";
+      transaction.card_number = user.giro_card_number;
+    } else {
+      transaction.card_type = "visa";
+      transaction.card_number = user.visa_card_number;
+    }
+
+    transaction.withdrawl_at = new Date(rng.intBetween(1451606400, 1479427200) * 1000);
+    transaction.withdrawl_amount = rng.intBetween(4, 42) * 5;
+
+    transactions.push(transaction);
+  }
+
+  transactions = transactions.sort(function(a, b) {
+    return new Date(a.withdrawl_at) - new Date(b.withdrawl_at);
+  })
+
+  return transactions;
 }
 
 function enrichWithType(type, object) {
@@ -85,6 +115,12 @@ function buildServer() {
   app.get('/users/:userid', function(req, res) {
     var user = generateFakeUser(req.params.userid);
     res.send(JSON.stringify(user));
+  });
+
+  app.get('/users/:userid/transactions', function(req, res) {
+    var history = generateFakeTransactionHistory(req.params.userid);
+    var formatted = formatList('transaction', history);
+    res.send(JSON.stringify(formatted));
   });
 
   return app;
