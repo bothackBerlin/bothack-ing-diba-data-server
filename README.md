@@ -1,4 +1,4 @@
-# Data server for the ING-DiBa challenge at bothack.berlin • [![challenge](https://img.shields.io/badge/challenge-telefonica--digital--companion-black.svg?colorA=424242&colorB=ffd706&style=social)][ingdiba-challenge]
+# Data server for the ING-DiBa challenge at bothack.berlin • [![challenge](https://img.shields.io/badge/challenge-ING--DiBa--data-black.svg?colorA=424242&colorB=ffd706&style=social)][ingdiba-challenge]
 
 [ingdiba-challenge]: https://github.com/bothackBerlin/bothack-challenges/blob/master/ing-diba/README.md#challenge
 
