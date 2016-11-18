@@ -29,6 +29,26 @@ Response:
 }
 ```
 
+### GET /users/:userid
+
+Request: `GET /users/12524`
+
+Response:
+
+```
+{
+  "type": "user",
+  "id": "12524",
+  "firstname": "Karolina",
+  "lastname": "Schindzielorz",
+  "account_number": "FR1420041010050500013M02606",
+  "giro_card_number": 4266045139013584,
+  "visa_card_number": 4684405558678853
+}
+
+```
+
+
 ## Starting the server
 
 Clone this repo and run:
