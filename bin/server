@@ -1,6 +1,6 @@
 var app = require('../src');
 
-const PORT = 4242;
+const PORT = 4243;
 
 const server = app.buildServer();
 console.log('Starting server on port ' + PORT);
