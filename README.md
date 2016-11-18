@@ -4,3 +4,27 @@
 
 This repository provides a small server to provide you with mock data
 for the [ING-DiBa data challenge][ingdiba-challenge] at bothack.berlin.
+
+## Routes
+
+### GET /atms/zipcode/:zipcode
+
+Request: `GET /atms/zipcode/12524`
+
+Response:
+
+```
+{
+  "type": "list.atm",
+  "data": [
+    {
+      "bigger_location": "Wegedorn-Zentrum",
+      "zipcode": "12524",
+      "city": "Berlin",
+      "street": "Semmelweißstraße 105",
+      "location": "Outdoor Eingangsbereich",
+      "type": "atm"
+    }
+  ]
+}
+```

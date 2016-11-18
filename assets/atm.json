@@ -1,0 +1,2407 @@
+[
+{"bigger_location":"A 10 Center II","zipcode":"15745","city":"Wildau","street":"Chausseestraße 1","location":"Südeingang im Windfang"}
+,
+{"bigger_location":"A10 Center","zipcode":"15745","city":"Wildau","street":"Chausseestr. 1","location":"Osteingang im Windfang"}
+,
+{"bigger_location":"aktiv & irma-Markt","zipcode":"26121","city":"Oldenburg","street":"Alexanderstr. 164","location":"Eingangsbereich"}
+,
+{"bigger_location":"Allee-Center Leipzig","zipcode":"04209","city":"Leipzig","street":"Ludwigsburger Str. 9","location":""}
+,
+{"bigger_location":"Aral Tankstelle","zipcode":"12107","city":"Berlin","street":"Mariendorfer Damm 341","location":"Wandeinbau"}
+,
+{"bigger_location":"Aral-Autohof","zipcode":"36251","city":"Bad Hersfeld","street":"An der Haune 1 a","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01099","city":"Dresden","street":"Königsbrücker Str. 136","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01127","city":"Dresden","street":"Großenhainer Str. 44","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01139","city":"Dresden","street":"Werftstraße 13","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01157","city":"Dresden","street":"Hamburger Str. 88 c","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01217","city":"Dresden","street":"Bergstr. 121","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01219","city":"Dresden","street":"Dohnaer Str. 103","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01257","city":"Dresden","street":"Str. des 17. Juni Nr. 9","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01454","city":"Radeberg","street":"Badstr. 69","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01471","city":"Radeburg","street":"Radeberger Str. 18","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01558","city":"Großenhain","street":"Elsterwerdaer Str. 19 A","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01561","city":"Schönfeld","street":"Königsbrücker Str. 25","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01662","city":"Meißen","street":"Hochuferstr. 11","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01723","city":"Wilsdruff","street":"Dresdner Tor Süd / A4","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01723","city":"Wilsdruff","street":"Dresdner Tor Nord / A4","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01744","city":"Dippoldiswalde","street":"Alte Altenberger Str. 40 A","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01814","city":"Rathmannsdorf","street":"Elbstr. 8","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01936","city":"Königsbrück","street":"Dresdner Str. 36","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"01968","city":"Senftenberg","street":"Laugkfeld 30","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"02625","city":"Bautzen","street":"Kreckwitzer Str. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"02730","city":"Ebersbach","street":"Rumburger Str. 42","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"02827","city":"Görlitz","street":"Reichenbacher Str. 89","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"03042","city":"Cottbus","street":"Merzdorfer Weg 1 ","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"03222","city":"Lübbenau","street":"Straße des Friedens 40","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04109","city":"Leipzig","street":"Marschnerstr. 50","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04157","city":"Leipzig","street":"Max-Liebermann-Str. 101","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04177","city":"Leipzig","street":"Merseburger Str. 109-113","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04318","city":"Leipzig","street":"Permoser Str. 32","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04357","city":"Leipzig","street":"Essener Str. 31","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04435","city":"Schkeuditz","street":"Bierweg 6","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04552","city":"Borna","street":"Am Gewerbegebiet","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04600","city":"Altenburg","street":"Münsaer Straße 65/B 180","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04860","city":"Torgau","street":"Dahlener Str. 3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04910","city":"Elsterwerda","street":"B 169","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"04916","city":"Herzberg","street":"B 87/Leipziger Str.","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06116","city":"Halle (Saale)","street":"Rosenfelder Str. 13","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06118","city":"Halle (Saale)","street":"Magdeburger Chaussee 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06126","city":"Halle (Saale)","street":"Eislebener Chaussee 200","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06217","city":"Merseburg","street":"Thomas-Müntzer-Ring","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06366","city":"Köthen","street":"Geuzer Str. / B 185","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06420","city":"Könnern","street":"Nordstr. 1","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06449","city":"Aschersleben","street":"Zollberg 70","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06484","city":"Quedlinburg","street":"Harzweg 19","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06686","city":"Lützen","street":"Hallesche Str. 41","location":""}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06766","city":"Bitterfeld-Wolfen","street":"Steinfurther Str. / B 184","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06844","city":"Dessau","street":"Albrechtstr. 35","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"06849","city":"Dessau","street":"Heidestr. 348","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"07546","city":"Gera","street":"Siemensstr. 58","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"07549","city":"Gera","street":"Heeresbergstr. 9","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"07743","city":"Jena","street":"Camburger Str. 64","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"07747","city":"Jena","street":"Stadtrodaer Str. A4/B282","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"07768","city":"Kahla","street":"Am Heerweg 33","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"07806","city":"Neustadt an der Orla","street":"Triptiser Str. 36","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"07937","city":"Zeulenroda","street":"Schopperstr. 83","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"08056","city":"Zwickau","street":"Planitzer Str. 3 - 5","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"08066","city":"Zwickau","street":"Äußere Dresdner Str. 5","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"08523","city":"Plauen","street":"Hammerstr. 65","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"08527","city":"Plauen","street":"Trockentalstr. 64","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"09114","city":"Chemnitz","street":"Leipziger Str. 206","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"09120","city":"Chemnitz","street":"Annaberger Str. 94","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"09126","city":"Chemnitz","street":"Zschopauer Str. 234","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"09366","city":"Niederdorf","street":"Neue Schichtstr. 16","location":""}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"09599","city":"Freiberg","street":"Leipziger Str. 43","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"10179","city":"Berlin","street":"Holzmarktstr. 12 - 14","location":"Wandeinbau Werkhalle"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"10555","city":"Berlin","street":"Levetzowstr. 9","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"10711","city":"Berlin","street":"Kurfürstendamm 128","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"10997","city":"Berlin","street":"Vor dem Schlesischen Tor","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12045","city":"Berlin","street":"Sonnenallee 113","location":"Wandeinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12057","city":"Berlin","street":"Grenzallee 6","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12103","city":"Berlin","street":"Schöneberger Str. / Alboinstr. 19-20","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12107","city":"Berlin","street":"Mariendorfer Damm 195","location":"Wandeinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12165","city":"Berlin","street":"Schloßstr. 63 - 64","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12247","city":"Berlin","street":"Kaiser-Wilhelm-Str. 117","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12347","city":"Berlin","street":"Britzer Damm 202-204","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12357","city":"Berlin","street":"Neuköllner Str. 219","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12357","city":"Berlin","street":"Neuköllner Str. 250 - 256","location":"Lager"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12437","city":"Berlin","street":"Köpenicker Landstr. 296","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12527","city":"Berlin","street":"Adlergestell 748","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"12529","city":"Schönefeld","street":"Schützenstr. 11","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13127","city":"Berlin","street":"Pasewalker Str. 110","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13187","city":"Berlin","street":"Mühlenstr. 26","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13353","city":"Berlin","street":"Seestr. 18/19","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13405","city":"Berlin","street":"Scharnweber Str. 12 - 13","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13407","city":"Berlin","street":"Rödernallee 179","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13409","city":"Berlin","street":"Residenzstr. 29","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13507","city":"Berlin","street":"Berliner Str. 24","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13585","city":"Berlin","street":"Falkenseer Damm 16","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"13593","city":"Berlin","street":"Heerstr. 325","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14052","city":"Berlin","street":"Reichsstr. 13 - 14","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14057","city":"Berlin","street":"Messedamm 8-10","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14163","city":"Berlin","street":"Potsdamer Chaussee 6","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14163","city":"Berlin","street":"Argentinische Allee 49","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14469","city":"Potsdam","street":"Potsdamer Str. 54","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14542","city":"Werder","street":"Potsdamer Str. 82","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14558","city":"Nuthetal","street":"Arthur-Scheunert-Allee 73-75","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14612","city":"Falkensee","street":"Finkenkruger Str. 57","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14641","city":"Nauen","street":"Hamburger Str. 34","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14641","city":"Wustermark","street":"Alter Spandauer Weg 5","location":""}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"14778","city":"Wollin","street":"Im Gewerbegebiet 1","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15234","city":"Frankfurt/Oder","street":"Berliner Chaussee 22","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15344","city":"Strausberg","street":"Hohensteiner Chaussee","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15370","city":"Fredersdorf-Vogelsdorf","street":"Frankfurter Chaussee 68","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15517","city":"Fürstenwalde","street":"Triftstr. 3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15517","city":"Fürstenwalde","street":"Friedenstr. 36","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15537","city":"Erkner","street":"Berliner Str. 11","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15711","city":"Königs Wusterhausen","street":"Luckenwalder Str. 111","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15713","city":"Königs Wusterhausen","street":"Robert-Guthmann-Str. 1","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15859","city":"Storkow","street":"Kummersdorfer Str. 13d","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15890","city":"Eisenhüttenstadt","street":"Karl-Marx-Str. 1","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15907","city":"Lübben","street":"Frankfurter Str. 101","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15926","city":"Luckau","street":"Rüblingsheide/A 13","location":"Sondereinbau / Kassenhäuser"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"15926","city":"Luckau","street":"Berstetal/A13","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"16244","city":"Finowfurt","street":"B 167 / Nr. 4","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"16356","city":"Ahrensfelde / Lindenberg","street":"Spenglerstr. 2","location":""}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"16548","city":"Glienicke","street":"Oranienburger Chaussee 34","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"17033","city":"Neubrandenburg","street":"Neustrelitzer Str. 118 ","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"17036","city":"Neubrandenburg","street":"Woldegker Str. 39","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"17166","city":"Teterow","street":"Poggestr. 17","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"17268","city":"Templin","street":"Lychener Str. 15","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"17489","city":"Greifswald","street":"Schönwalder Landstr. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"18146","city":"Rostock","street":"Rövershäger Chaussee 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"18147","city":"Rostock ","street":"Toitenwinkler Allee 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"18273","city":"Güstrow","street":"Am Eicheneck 7","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"18311","city":"Ribnitz-Damgarten","street":"B 105","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"19057","city":"Schwerin","street":"Vor dem Wittenburger Tor","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"19061","city":"Schwerin","street":"An der Crivitzer Chaussee 2 / Müsser Bucht","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"19063","city":"Schwerin","street":"Am Grünen Tal 10","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"19243","city":"Wittenburg","street":"Rudolf-Diesel-Str. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"19370","city":"Parchim","street":"Ludwigsluster Chaussee 24","location":"Shop rechts neben Tür / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"20097","city":"Hamburg","street":"Spaldingstr. 107","location":"Wandeinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"20535","city":"Hamburg","street":"Sievekingsallee/Saling 30","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"20537","city":"Hamburg","street":"Eiffestr. 506","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"20539","city":"Hamburg","street":"Großmannstr. 195 - 211","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21035","city":"Hamburg","street":"Nettelnburger Landweg 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21077","city":"Hamburg","street":"Bremer Str. 300","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21107","city":"Hamburg","street":"Mengestr. 14","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21129","city":"Hamburg","street":"Ostfrieslandstr. 80","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21218","city":"Seevetal","street":"Jesteburger Str. 12","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21337","city":"Lüneburg","street":"Dahlenburger Landstr. 33","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21339","city":"Lüneburg","street":"Hamburger Str. 35 b","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21423","city":"Winsen","street":"Max-Planck-Str. 18","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"21481","city":"Lauenburg","street":"Hamburger Str. 30","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22043","city":"Hamburg","street":"Schimmelmannstr. 97","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22143","city":"Hamburg","street":"Bargteheider Str. 100","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22143","city":"Hamburg","street":"Sieker Landstr. 128","location":"Lagerraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22177","city":"Hamburg","street":"Bramfelder Chaussee 66","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22305","city":"Hamburg","street":"Habichtstr. 72 - 78","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22335","city":"Hamburg","street":"Langenhorner Chaussee 53 - 61","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22523","city":"Hamburg","street":"Holsteiner Chaussee 55","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22525","city":"Hamburg","street":"Kieler Str. 285","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22529","city":"Hamburg","street":"Osterfeldstr. 30","location":"Wandeinbau Lager / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22761","city":"Hamburg","street":"Stresemannstr. 329","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"22880","city":"Wedel","street":"Rissener Str. 89","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"23554","city":"Lübeck","street":"Fackenburger Allee 20","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"23570","city":"Lübeck","street":"Gneversdorfer Weg 12 - 14","location":"Lager Wandeinbau / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"23775","city":"Großenbrode","street":"B 207/E 47 -Landseite","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"23795","city":"Schackendorf","street":"BAB 21","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"23795","city":"Bad Segeberg","street":"Ziegelstraße 46","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"23843","city":"Bad Oldesloe","street":"Hamburger Straße 110","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"23966","city":"Wismar","street":"Lübsche Str. 161","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24109","city":"Kiel","street":"Stockholmstr. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24113","city":"Kiel","street":"Rendsburger Landstr. 205","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24119","city":"Kronshagen","street":"Eckernförder Straße 290","location":""}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24143","city":"Kiel","street":"Schwedendamm 21","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24534","city":"Neumünster","street":"Rendsburger Str. 48","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24558","city":"Henstedt-Ulzburg","street":"Rudolf-Diesel-Str. 2","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24568","city":"Kaltenkirchen","street":"Kieler Str. 51 - 53","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24850","city":"Schuby","street":"Westring 19","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"24937","city":"Flensburg","street":"Nordstr. 20","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"25337","city":"Elmshorn","street":"Werner-von-Siemens-Str. 1","location":"Büro links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"25348","city":"Glückstadt","street":"Stadtstr. 31","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"25436","city":"Tornesch","street":"Lise-Meitner-Allee 3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"25524","city":"Itzehoe","street":"Lindenstr. 24","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"25813","city":"Husum","street":"Flensburger Chaussee 50","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26122","city":"Oldenburg","street":"Prinzessinweg 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26131","city":"Oldenburg","street":"Hundsmühler Str. 86","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26384","city":"Wilhelmshaven","street":"Gökerstr.","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26389","city":"Wilhelmshaven","street":"Ernst-Barlach-Str. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26607","city":"Aurich","street":"Esenser Straße 109","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26721","city":"Emden","street":"Auricher Str. 216","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26789","city":"Leer","street":"Heisfelder Str. 212","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"26954","city":"Nordenham","street":"Bahnhofstr. 62","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"27283","city":"Verden","street":"Hamburger Str. 47","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"27404","city":"Gyhum ","street":"An der Autobahn 1, Rasthof Bokel","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"27419","city":"Sittensen","street":"Stader Str. 30","location":""}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"27572","city":"Bremerhaven","street":"Weserstr. 239 - 247","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"27753","city":"Delmenhorst","street":"Stedinger Str. 174","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"28237","city":"Bremen","street":"Stapelfeldtstr. 4","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"28307","city":"Bremen","street":"Osterholzer Heerstr. 119 – 121","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"28309","city":"Bremen","street":"Hannoversche Str. 142","location":"Fenstereinbau Büro / GAA im Pächterbüro Zugang 9 bis 12 Uhr"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"28309","city":"Bremen","street":"Gewerbepark Hansalinie","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"28329","city":"Bremen","street":"Kurfürstenallee 49","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"28717","city":"Bremen","street":"Bremerhavener Heerstr. 48","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"28816","city":"Stuhr","street":"Weser-Ems-Str. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"29227","city":"Celle","street":"Braunschweiger Heerstr. 78","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"29227","city":"Celle","street":"Hannoversche Heerstr. 44","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"29525","city":"Uelzen","street":"Veersser Str. 98","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"29525","city":"Uelzen","street":"Ludwig-Erhard-Straße  4","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"29664","city":"Walsrode","street":"Hannoversche Str. 41 - 43","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30171","city":"Hannover","street":"Marienstr. 108","location":"Shop rechen Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30173","city":"Hannover","street":"Altenbekener Damm 3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30173","city":"Hannover","street":"Hans-Böckler-Allee 33","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30419","city":"Hannover","street":"Am Leineufer 52","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30453","city":"Hannover","street":"Badenstedter Str. 102 a","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30459","city":"Hannover","street":"Göttinger Chaussee 80","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30521","city":"Hannover","street":"Messeschnellweg West","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30539","city":"Hannover","street":"Messeschnellweg Ostseite","location":"Shop Indoor rechts an der Wand"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30559","city":"Hannover","street":"B 65 - Südseite-","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30559","city":"Hannover","street":"Lehrter Str. 86 (B 65 Nord)","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30659","city":"Hannover","street":"Kirchhorster Str. 24","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30851","city":"Langenhagen","street":"Vahrenwalder Str. 323","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30880","city":"Laatzen","street":"Karlsruher Str. 52","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"30966","city":"Hemmingen","street":"Gutenbergstr. 1","location":"Fenstereinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"31061","city":"Alfeld ","street":"Alte Heerstr. 4 / B3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"31139","city":"Hildesheim","street":"Alfelder Str. 99","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"31167","city":"Bockenem","street":"Oppelner Str. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"31224","city":"Peine","street":"Schwarzer Weg 39","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"31319","city":"Sehnde","street":"Iltener Str. 8","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"31535","city":"Neustadt am Rübenberge","street":"Wunstorfer Str. 64","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"31785","city":"Hameln","street":"Deisterstr. 13","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"32257","city":"Bünde","street":"Herforder Str. 147 - 151","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"33106","city":"Paderborn","street":"Borchener Str. 336","location":"Eingangsbereich / Durchgang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"33607","city":"Bielefeld","street":"Heeper Str. 77","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"33824","city":"Werther","street":"Bielefelder Str. 36","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"34121","city":"Kassel","street":"Frankfurter Str. 90","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"34123","city":"Kassel","street":"Nürnberger Str. 106","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"34134","city":"Kassel","street":"Leuschnerstr. 81","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"34295","city":"Edermünde-Holzhausen","street":"BAB 49, Edermünde Ost","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"35066","city":"Frankenberg","street":"Röddenauer Str. 31","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"35394","city":"Gießen","street":"Grünberger Str. 40 - 42","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"36433","city":"Leimbach","street":"Salzunger Str.","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"37075","city":"Göttingen","street":"Weender Landstr. 62 A","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"37154","city":"Northeim","street":"Westerlange / B 3","location":"Shop links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"37235","city":"Hessisch Lichtenau","street":"BAB 44 / B 7, Leipziger Str. 201","location":"Shop links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"37269","city":"Eschwege","street":"Niederhoner Str. 3","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"37603","city":"Holzminden","street":"Allersheimer Str. 66","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38112","city":"Braunschweig","street":"Hansestr. 47a","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38114","city":"Braunschweig","street":"Hildesheimer Str. 32","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38126","city":"Braunschweig","street":"Salzdahlumer Str. 190","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38170","city":"Schöppenstedt","street":"Schwarzer Weg 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38302","city":"Wolfenbüttel","street":"Leipziger Str. 8 C","location":"Shop links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38364","city":"Schöningen","street":"Helmstedter Str. 33","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38440","city":"Wolfsburg","street":"Heinrich-Nordhoff-Str. 117","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38640","city":"Goslar","street":"Hildesheimer Str. 18","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38700","city":"Braunlage","street":"Bahnhofstr. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38820","city":"Halberstadt","street":"Sternstr. 10","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"38889","city":"Blankenburg","street":"Neue Halberstädter Str. 67","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"39126","city":"Magdeburg","street":"Grabower Str. 2","location":"Eingangsbereich / Durchgang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"39126","city":"Magdeburg","street":"Olvenstedter Graseweg 36f","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"39126","city":"Magdeburg","street":"Ziolkowskistraße 14","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"39340","city":"Haldensleben","street":"Alvensleber Landstr. 5","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"39576","city":"Stendal","street":"Arneburger Str.47 / B 189","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"39606","city":"Osterburg","street":"Schilddorf 10 / B  189","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"40549","city":"Düsseldorf","street":"Pariser Str. 82","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"40589","city":"Düsseldorf","street":"Münchener Straße 300 / Itterstraße 147","location":"Büro links neben der Tür / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"40627","city":"Düsseldorf","street":"In den Kötten 9","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"40627","city":"Düsseldorf","street":"Gerresheimer Landstr. 67","location":"Büro links neben der Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"40629","city":"Düsseldorf","street":"Bergische Landstr. 605","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"40878","city":"Ratingen","street":"Volkardeyer Str. 54","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41066","city":"Mönchengladbach","street":"Krefelder Str. 472","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41068","city":"Mönchengladbach","street":"Waldnieler Str. 60","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41238","city":"Mönchengladbach","street":"Liedberger Str. 25","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41539","city":"Dormagen","street":"Krefelder Str. 101","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41540","city":"Dormagen","street":"Kruppstraße 1 A","location":"Wandeinbau Lagerraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41564","city":"Kaarst","street":"Kaarster Str. 1/ Bismarckstr.","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41751","city":"Viersen","street":"Viersener Str. 142","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"41836","city":"Hückelhoven","street":"Krefelder Str. 44","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"42281","city":"Wuppertal","street":"Märkische Str. 29","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"42553","city":"Velbert","street":"Elberfelder Str. 99","location":"Büro Wandeinbau / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"42579","city":"Heiligenhaus","street":"Ratinger Str. 19","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"42781","city":"Haan","street":"Hochdahler Str. 130","location":"Shop links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"42855","city":"Remscheid","street":"Neuenkamper Str. 2 - 4","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44137","city":"Dortmund","street":"Lindemannstr. 65","location":"Fenstereinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44141","city":"Dortmund","street":"Westfalendamm 166","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44225","city":"Dortmund","street":"Hagener Str. 156","location":"Büro links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44328","city":"Dortmund","street":"Flughafenstr. 425","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44625","city":"Herne","street":"Holsterhauser Str. 301","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44789","city":"Bochum","street":"Wittener Str. 66","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44789","city":"Bochum","street":"Königsallee 142","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44791","city":"Bochum","street":"Castroper Str. 190","location":"Wandeinbau Aufenthaltsraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44793","city":"Bochum","street":"Alleestr. 79","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44805","city":"Bochum","street":"Castroper Hellweg 111","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44807","city":"Bochum","street":"Herner Str. 403","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44809","city":"Bochum","street":"Dorstener Str. 84","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44809","city":"Bochum","street":"Herner Str. 256","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44867","city":"Bochum","street":"Berliner Str. 96","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"44892","city":"Bochum","street":"Hauptstr. 173","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45131","city":"Essen","street":"Alfredstr. 121","location":"Nebenraum rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45136","city":"Essen","street":"Rellinghauser Str. 302","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45138","city":"Essen","street":"Steeler Str. 281","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45141","city":"Essen","street":"Holsterhauser Str. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45141","city":"Essen","street":"Ernestinenstr. 155-157","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45219","city":"Essen","street":"Ringstr. 30","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45257","city":"Essen","street":"Kupferdreher Str. 63 - 67","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45307","city":"Essen","street":"Krayer Str. 188","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45326","city":"Essen","street":"Gladbecker Str. 398 A","location":"Wandeinbau Personalraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45359","city":"Essen","street":"Frintroper Str. 66 - 68","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45659","city":"Recklinghausen","street":"Friedrich-Ebert-Str.14","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45889","city":"Gelsenkirchen","street":"Bismarckstr. 280","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"45964","city":"Gladbeck","street":"Hermannstr. 100","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"46045","city":"Oberhausen","street":"Mülheimer Str. 155","location":"Wandeinbau Lager"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"46045","city":"Oberhausen","street":"Mülheimer Str. 278 - 284","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"46145","city":"Oberhausen","street":"Teutoburger Str. 1 - 3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"46236","city":"Bottrop","street":"Friedrich-Ebert-Str. 113 ","location":"Wandeinbau Lager"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"46236","city":"Bottrop","street":"Hans-Sachs-Str. 64","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"46562","city":"Voerde","street":"Spellener Str. 13","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47058","city":"Duisburg","street":"Kardinal-Galen-Str. 106","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47119","city":"Duisburg","street":"Hafenstr. 43 a","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47226","city":"Duisburg","street":"Friedrich-Ebert-Str. 117","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47441","city":"Moers ","street":"Römerstr. 454","location":"Fenstereinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47441","city":"Moers","street":"Krefelder Str. 10","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47647","city":"Kerken","street":"Umgehungsstr. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47805","city":"Krefeld","street":"Untergath 210","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47807","city":"Krefeld","street":"Kölner Str. 316","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"47906","city":"Kempen","street":"Hülser Str. 45","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"48149","city":"Münster","street":"Steinfurter Str. 1-3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"48282","city":"Emsdetten","street":"Grevener Damm 78","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"49074","city":"Osnabrück","street":"Alte Poststr. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"49434","city":"Neuenkirchen-Vörden","street":"Hörster Heide 2","location":"Shop links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"49549","city":"Ladbergen","street":"Espenhof 1","location":"im Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50126","city":"Bergheim","street":"Aachener Str. 25","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50170","city":"Kerpen","street":"Kerpener Str. 185","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50259","city":"Pulheim","street":"Venloer Str. 39","location":"Wandeinbau Personalraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50321","city":"Brühl","street":"Pingsdorfer Str. 106","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50354","city":"Hürth","street":"Luxemburger Str. 58","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50735","city":"Köln","street":"Amsterdamer Str. 194","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50739","city":"Köln","street":"Escher Str. 273","location":"Büro rechts neben Tür / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50765","city":"Köln","street":"Athener Ring 1","location":"Shop links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50858","city":"Köln","street":"Aachener Str. 1100","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50968","city":"Köln","street":"Am Verteilerkreis West","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50969","city":"Köln","street":"Zollstockgürtel 39","location":"Büro links neben Tür / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"50999","city":"Köln","street":"Kölnstr. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"51067","city":"Köln","street":"Bergisch-Gladbacher-Str.  417-419","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"51103","city":"Köln","street":"Frankfurter Str. 390","location":"Fenstereinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"51107","city":"Köln","street":"Rösrather Str. 521 ","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"51375","city":"Leverkusen","street":"Willy-Brandt-Ring 101","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"52134","city":"Herzogenrath","street":"Roermonder Str. 25 - 29","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"52146","city":"Würselen","street":"Hauptstr. 384","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"52353","city":"Düren","street":"Nordstraße 176","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"52379","city":"Langerwehe","street":"Hauptstr. 275","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"52428","city":"Jülich","street":"Neusser Str. 45","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"53111","city":"Bonn","street":"Römerstr. 102 - 110","location":"Wandeinbau Geräteraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"53359","city":"Rheinbach","street":"Koblenzer Str. 29 - 31","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"53840","city":"Troisdorf","street":"Mülheimer Str. 15","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"53879","city":"Euskirchen","street":"Kölner Str. 147","location":"Wandeinbau Lager"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"53879","city":"Euskirchen","street":"Frauenberger Str. 168","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"55232","city":"Alzey","street":"Schafhäuser Straße 2 - 6","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"55246","city":"Wiesbaden","street":"Hochheimer Str. 25","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"55543","city":"Bad Kreuznach","street":"Bosenheimer Straße 45","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"55543","city":"Bad Kreuznach","street":"Schwabenheimer Weg 135","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"56070","city":"Koblenz","street":"Andernacher Str. 207","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"56203","city":"Höhr-Grenzhausen","street":"Westerwaldstr. 39 - 43","location":"Fenstereinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"57072","city":"Siegen","street":"Koblenzer Str. 82","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"57072","city":"Siegen","street":"Sandstr. 126","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"57223","city":"Kreuztal","street":"Hagener Str. 10","location":"Büro rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"58239","city":"Schwerte","street":"Hörder Str. 89","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"58256","city":"Ennepetal","street":"Neustr. 19","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"58313","city":"Herdecke","street":"Herdecker Bach 37 A","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"58332","city":"Schwelm","street":"Talstr. 10","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"58456","city":"Witten","street":"Wittener Str. 71","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"58511","city":"Lüdenscheid","street":"Werdohler Landstr. 4","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"58638","city":"Iserlohn","street":"Dortmunder Str. 110","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"59069","city":"Hamm","street":"Werler Str. 390","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"59494","city":"Soest","street":"Overweg 33","location":"Shop rechts neben Tür / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"60389","city":"Frankfurt am Main","street":"Friedberger Landstr. 300","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"60389","city":"Frankfurt am Main","street":"Friedberger Landstr. 325","location":"Büro links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"60431","city":"Frankfurt am Main","street":"Eschersheimer Landstr. 523","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"60488","city":"Frankfurt am Main","street":"Ludwig-Landmann-Str. 90","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"60528","city":"Frankfurt am Main","street":"Kennedy-Allee 280","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"60598","city":"Frankfurt am Main","street":"Darmstädter Landstr. 304","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"61348","city":"Bad Homburg","street":"Louisenstr. 146 ","location":"Shop Fensterfront"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"61348","city":"Bad Homburg","street":"Urseler Straße 38","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"61350","city":"Bad Homburg","street":"Saalburgstraße 114","location":"GAA steht im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"61352","city":"Bad Homburg","street":"Taunus-Schnellweg Südseite","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"61352","city":"Bad Homburg","street":"Taunus-Schnellweg Nordseite","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"61381","city":"Friedrichsdorf","street":"Höhenstr. 1","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"63071","city":"Offenbach","street":"Bieberer Str. 157","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"63150","city":"Heusenstamm","street":"Isenburger Str. 20","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"63303","city":"Dreieich","street":"Darmstädter Str. 43","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"63477","city":"Maintal","street":"Kennedystr. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"63801","city":"Kleinostheim","street":"Aschaffenburger Str. 86","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"63834","city":"Sulzbach am Main","street":"Bahnhofstr. 86","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"64295","city":"Darmstadt","street":"Rüdesheimer Str. 114","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"64295","city":"Darmstadt","street":"Rheinstr. 69","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"64331","city":"Weiterstadt","street":"Darmstädter Str. 122","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"64521","city":"Groß-Gerau","street":"Oppenheimer Str. 7","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"64625","city":"Bensheim","street":"Amperestr. 1","location":"Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"64832","city":"Babenhausen","street":"Aschaffenburger Straße 3","location":"Shop neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65189","city":"Wiesbaden","street":"Berliner Str. 68","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65205","city":"Wiesbaden","street":"BAB 66, Erbenheim Nord ","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65205","city":"Wiesbaden","street":"BAB 66, Erbenheim-Süd","location":"Wandeinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65344","city":"Eltville","street":"Schlangenbader Str. 8","location":"Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65428","city":"Rüsselsheim","street":"Adam-Opel-Str. 47 - 49","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65428","city":"Rüsselsheim","street":"Mainzer Str. 95","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65549","city":"Limburg","street":"Frankfurter Str. 55","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65719","city":"Hofheim","street":"Zeilsheimer Str. 62","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65929","city":"Frankfurt am Main","street":"A66, Nord","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"65929","city":"Frankfurt am Main","street":"A66, Süd","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"66115","city":"Saarbrücken","street":"St.-Johanner-Str. 111","location":"Büro links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"66130","city":"Saarbrücken","street":"Neumühler Weg ","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"66333","city":"Völklingen","street":"Karolinger Str. 5","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"66538","city":"Neunkirchen","street":"Königstr. 32","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"66740","city":"Saarlouis","street":"Bahnhofstr. 20","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"66954","city":"Pirmasens","street":"Zweibrücker Str. 130","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"67063","city":"Ludwigshafen","street":"Brunckstr. 100","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"67269","city":"Grünstadt","street":"Kirchheimer Str. 51 - 53","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"67346","city":"Speyer","street":"Industriestr. 5 A","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"67547","city":"Worms","street":"Mainzer Str. 140","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"67657","city":"Kaiserslautern","street":"Mainzer Str. 117","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"67663","city":"Kaiserslautern","street":"Pariser Str. 202","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"68165","city":"Mannheim","street":"Möhlstr. 1","location":"Shop links neben Eingang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"68307","city":"Mannheim","street":"Frankenthaler Str. 86","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"68309","city":"Mannheim","street":"Brandenburger Str. 13-15","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"68723","city":"Schwetzingen","street":"Hockenheimer Landstr. 4/2","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"70376","city":"Stuttgart","street":"Pragstr. 138 a","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"70469","city":"Stuttgart","street":"Wiener Str. 39","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"70771","city":"Leinfelden-Echterdingen","street":"Hauptstr. 159","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"70825","city":"Korntal-Münchingen","street":"Heinrich-Lanz-Str. 1","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"71034","city":"Böblingen","street":"Herrenberger Str. 50","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"71636","city":"Ludwigsburg","street":"Schwieberdinger Str. 70","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"71638","city":"Ludwigsburg","street":"Friedrichstr. 160","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"71665","city":"Vaihingen","street":"An der Reichsstr. 10","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"71717","city":"Beilstein","street":"Oberstenfelder Str. 24","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"72072","city":"Tübingen","street":"Reutlinger Str. 72","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"72336","city":"Balingen","street":"Wilhelm-Kraut-Str. 111","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"72764","city":"Reutlingen","street":"Albstr. 82","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"73765","city":"Neuhausen","street":"Plieninger Str. 35","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"73770","city":"Denkendorf","street":"Marie-Curie-Str. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"74080","city":"Heilbronn","street":"Wilhelm-Leuschner-Str. 14","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"74172","city":"Neckarsulm","street":"Neuenstädter Str. 95","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"74348","city":"Lauffen","street":"Stuttgarter Str. 75","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"74360","city":"Ilsfeld","street":"Hauptstr. 60","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"74385","city":"Pleidelsheim","street":"Marbacher Str. 36","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"75177","city":"Pforzheim","street":"Lochhäckerstr. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"75179","city":"Pforzheim","street":"Karlsruher Str. 26 A","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"75196","city":"Remchingen","street":"Bahnhofstr. 2","location":"Wandeinbau Personalraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"76149","city":"Karlsruhe","street":"Linkenheimer Landstr. 125","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"76228","city":"Karlsruhe","street":"Wiesenstr. 30","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"76530","city":"Baden-Baden","street":"Lange Str. 122","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"76534","city":"Baden-Baden","street":"Maximilianstraße 45","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"76870","city":"Kandel","street":"Rheinstr. 128","location":"Wandeinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"77694","city":"Kehl","street":"Straßburger Str. 36","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"77855","city":"Achern","street":"Fautenbacher Str. 22","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"77933","city":"Lahr/Schwarzwald","street":"Freiburger Str. 11","location":"Shop rechts nebn Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"78050","city":"Villingen-Schwenningen","street":"Vöhrenbacher Str. 38","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"78176","city":"Blumberg","street":"An der Bundesstr. 27","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"80637","city":"München","street":"Landshuter Allee 163","location":"Wandeinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"80804","city":"München","street":"Leopoldstr. 208","location":"Fenstereinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"80807","city":"München","street":"Schenkendorfstr. 15","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"80939","city":"München","street":"Ingolstädter Str.164-166","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"80992","city":"München","street":"Georg-Brauchle-Ring 27","location":"Shop Wandeinbau / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"81379","city":"München","street":"Boschetsrieder Str. 127","location":"Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"81539","city":"München","street":"Tegernseer Landstr. 174","location":"Fenstereinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"81669","city":"München","street":"Rosenheimer Str. 138","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"81825","city":"München","street":"Wasserburger Landstr. 51","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"81829","city":"München","street":"Otto-Perutz-Str. 1","location":""}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"82538","city":"Geretsried","street":"Elbestr. 23","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"83022","city":"Rosenheim","street":"Kufsteiner Str. 57","location":"Fenstereinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"83059","city":"Kolbermoor","street":"Aiblinger Au 52 A","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"83607","city":"Holzkirchen","street":"Miesbacher Str. 33","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"83707","city":"Bad Wiessee","street":"Münchener Straße 43","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"84036","city":"Landshut","street":"Niedermayerstr. 54","location":"Wandeinbau Personalraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"84048","city":"Mainburg","street":"Freisinger Str. 21","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"84130","city":"Dingolfing","street":"Bahnhofstr. 18","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"84478","city":"Waldkraiburg","street":"Teplitzer Str. 24","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"85221","city":"Dachau","street":"Alte Römerstr. 50","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"85375","city":"Neufahrn","street":"Grünecker Str. 6","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"85391","city":"Allershausen","street":"Schroßlacher Straße 2","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"85435","city":"Erding","street":"Sigwolfstr. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"85540","city":"Haar","street":"Münchener Str. 16","location":"Fenstereinbau Personalraum"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"85591","city":"Vaterstetten","street":"Wasserburger Landstr. 3","location":"Shop rechts neben Tür / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"85748","city":"Garching","street":"Schleißheimer Str. 124","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"86161","city":"Augsburg","street":"Haunstetter Str. 139 ½ ","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"86167","city":"Augsburg","street":"Aindlinger Straße 11","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"86179","city":"Augsburg","street":"Inninger Straße 99","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"86633","city":"Neuburg","street":"Am Südpark 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"86899","city":"Landsberg am Lech","street":"Schongauer Str. 7","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"87700","city":"Memmingen","street":"Münchener Str. 66","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"87730","city":"Bad Grönenbach","street":"Weißenbachstraße 2","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"88079","city":"Kressbronn am Bodensee","street":"Linderhof 8","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"88214","city":"Ravensburg","street":"Jahnstraße 40","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"89188","city":"Merklingen","street":"Nellinger Str. 24","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"89520","city":"Heidenheim an der Brenz","street":"Nördlinger Str. 72","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"90411","city":"Nürnberg","street":"Äußere Bayreuther Str. 137","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"90441","city":"Nürnberg","street":"Schweinauer Hauptstr. 92","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"90443","city":"Nürnberg","street":"Ulmenstr. 31","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"90491","city":"Nürnberg","street":"Äußere Sulzbacher Str. 117","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"90518","city":"Altdorf","street":"Nürnberger Straße 25","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"90762","city":"Fürth","street":"Nürnberger Str. 131","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"90763","city":"Fürth","street":"Herrnstr. 27","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"91056","city":"Erlangen","street":"Am Europakanal 26","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"91126","city":"Schwabach","street":"An der Autobahn 1","location":"Eingangsbereich / Durchgang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"91220","city":"Schnaittach","street":"Schwarzleite 2","location":"Eingangsbereich / Durchgang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"91315","city":"Höchstadt","street":"Fürther Str. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"91522","city":"Ansbach","street":"Matthias-Oechsler-Straße 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"91567","city":"Herrieden","street":"Am Eichelberg 2","location":"Eingangsbereich / Durchgang"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"92318","city":"Neumarkt","street":"Amberger Str. 18","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"93051","city":"Regensburg","street":"Augsburger Str. 32","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"93055","city":"Regensburg","street":"Max-Planck-Str. 8 / B15","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"93073","city":"Neutraubling","street":"Gleiwitzer Str. 8","location":"Shop Sparerker"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"95502","city":"Himmelkron","street":"Hofer Str. 2 / B 303","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"96052","city":"Bamberg","street":"Memmelsdorfer Str. 80","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"96450","city":"Coburg","street":"Ernst-Faber-Str. 19","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"96450","city":"Coburg","street":"Rodacher Str. 69","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"97424","city":"Schweinfurt","street":"Straßburgstr. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"98528","city":"Suhl","street":"Gothaer Straße 158","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99091","city":"Erfurt","street":"Demminer Str. 7","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99097","city":"Erfurt","street":"Kranichfelder Str. 2","location":"Shop links neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99425","city":"Weimar","street":"Berkaer Str. 71","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99427","city":"Weimar","street":"Buttelstedter Str. / E.Ernst-Busse-Str.","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99441","city":"Mellingen","street":"Aral-Allee 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99734","city":"Nordhausen","street":"Hallesche Str. 101","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99734","city":"Nordhausen","street":"Helmestr. 109","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99817","city":"Eisenach","street":"An der Karlskuppe 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99867","city":"Gotha","street":"Ohrdrufer Str. 2","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99885","city":"Ohrdruf","street":"Suhler Str. 5 A","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Tankstelle","zipcode":"99974","city":"Mühlhausen","street":"Langensalzaer Str. 51","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Aral-Zentrale","zipcode":"44789","city":"Bochum","street":"Wittener Str. 45","location":"UG"}
+,
+{"bigger_location":"Ärzte am Stern","zipcode":"34117","city":"Kassel","street":"Kurt-Schumacher Straße 11","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Bahnhof","zipcode":"87509","city":"Immenstadt im Allgäu","street":"Bahnhofstr. 39","location":""}
+,
+{"bigger_location":"Bahnhof","zipcode":"87616","city":"Marktoberdorf","street":"Bahnhofstr. 10","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Beetzsee Center","zipcode":"14772","city":"Brandenburg","street":"Brielower Landstr. 19","location":""}
+,
+{"bigger_location":"BFT Tankstelle","zipcode":"50733","city":"Köln","street":"Neusser Str. 467","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"BFT Tankstelle","zipcode":"59425","city":"Unna","street":"Friedrich-Ebert-Str. 64","location":"Shop Sparerker"}
+,
+{"bigger_location":"Cannstatter Carré","zipcode":"70372","city":"Stuttgart","street":"Wildunger Str. 2 - 4","location":"Mall"}
+,
+{"bigger_location":"City Center","zipcode":"15890","city":"Eisenhüttenstadt","street":"Nordpassage 1","location":"Mall neben Detektivbüro"}
+,
+{"bigger_location":"City Center","zipcode":"96515","city":"Sonneberg","street":"Bahnhofstraße 44-48","location":""}
+,
+{"bigger_location":"City Center Langenhagen","zipcode":"30853","city":"Langenhagen","street":"Marktplatz 7","location":""}
+,
+{"bigger_location":"City Galerie Peine","zipcode":"31224","city":"Peine","street":"Bahnhofstr. 3","location":""}
+,
+{"bigger_location":"City-Center Köln Chorweiler","zipcode":"50765","city":"Köln","street":"Mailänder Passage 1","location":"EG"}
+,
+{"bigger_location":"Classic Tankstelle","zipcode":"32312","city":"Lübbecke","street":"Bohlenstr. 2","location":"Wandeinbau Büro"}
+,
+{"bigger_location":"Donau Einkaufszentrum","zipcode":"93059","city":"Regensburg","street":"Weichser Weg 5","location":"Neben Saturn im Eingangsbreich"}
+,
+{"bigger_location":"EASTGATE Berlin","zipcode":"12679","city":"Berlin","street":"Marzahner Promenade 1","location":"1.OG neben Fahrstühlen"}
+,
+{"bigger_location":"Edeka","zipcode":"10713","city":"Berlin","street":"Blissestr. 36","location":""}
+,
+{"bigger_location":"Edeka","zipcode":"27570","city":"Bremerhaven","street":"Georg-Seebeck-Straße 58","location":""}
+,
+{"bigger_location":"Edeka","zipcode":"29308","city":"Winsen","street":"Roggenkamp 11","location":"Mall"}
+,
+{"bigger_location":"Edeka","zipcode":"29614","city":"Soltau","street":"Lüneburger Str. 97","location":"Mall"}
+,
+{"bigger_location":"Edeka","zipcode":"30453","city":"Hannover","street":"Am Bahndamm 17","location":"Mall"}
+,
+{"bigger_location":"Edeka","zipcode":"31832","city":"Springe","street":"Osttangente 4","location":"Mall"}
+,
+{"bigger_location":"Edeka","zipcode":"37581","city":"Bad Gandersheim","street":"Marienstraße 25","location":""}
+,
+{"bigger_location":"Edeka","zipcode":"49090","city":"Osnabrück","street":"Bürener Str. 8","location":"Mall"}
+,
+{"bigger_location":"Einkaufspark Duckwitz","zipcode":"28199","city":"Bremen","street":"Duckwitzstraße 55","location":"Auf der Mall, neben Fotofix."}
+,
+{"bigger_location":"EKZ Das Gerber","zipcode":"70178","city":"Stuttgart","street":"Tübinger Straße 26 f","location":"OG auf der Mall"}
+,
+{"bigger_location":"EKZ Milaneo","zipcode":"70173","city":"Stuttgart","street":"Mailänder Platz 7","location":"1.OG / Shop 1.43b"}
+,
+{"bigger_location":"EKZ Reutereiche","zipcode":"17153","city":"Stavenhagen","street":"An der Reutereiche 1","location":"Mall"}
+,
+{"bigger_location":"EKZ Schöne Aussicht","zipcode":"06667","city":"Leißling","street":"Am Marktwege 2","location":"Mall neben Vodafone Shop Indoor"}
+,
+{"bigger_location":"Elli-Markt","zipcode":"59558","city":"Lippstadt","street":"Bruchstr. 2","location":"Eingangsbereich"}
+,
+{"bigger_location":"Ems Galerie","zipcode":"48431","city":"Rheine","street":"Emsstraße 36","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"04435","city":"Schkeuditz","street":"Merseburger Chaussee 6","location":"im Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"04626","city":"Loebichau","street":"Autohof BAB 4 Loebichau","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"04838","city":"Eilenburg","street":"Wurzener Landstr. 5","location":"Lagerraum / Outdoor"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"06112","city":"Halle (Saale)","street":"Delitzscher Str. 56","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"06618","city":"Naumburg","street":"Weißenfelser Str. 45","location":"Shop / Indoor"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"09661","city":"Hainichen","street":"B 169","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"12101","city":"Berlin","street":"Tempelhofer Damm 20","location":"Indoor"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"12107","city":"Berlin","street":"Marienfelder Chaussee 171","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"12305","city":"Berlin","street":"Lichtenrader Damm 274","location":"Outdoor / Personalraum"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"12347","city":"Berlin","street":"Tempelhofer Weg 32","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"12529","city":"Schönefeld","street":"Wassmannsdorfer Chaussee 6","location":"Im Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"12589","city":"Berlin","street":"Fürstenwalder Allee 100","location":"Outdoor Lagerraum"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"12621","city":"Berlin","street":"Chemnitzer Str. 179 - 181","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"13053","city":"Berlin","street":"Indira-Gandhi-Str. 75","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"13407","city":"Berlin","street":"Holländerstr. 52","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"13595","city":"Berlin","street":"Heerstr. 285","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"13597","city":"Berlin","street":"Ruhlebener Str. 183 - 185","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"14195","city":"Berlin","street":"Clayallee 90","location":"Indoor"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"14513","city":"Teltow","street":"Warthestr.1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"14776","city":"Brandenburg","street":"Berliner Str. 1 E","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"14822","city":"Linthe","street":"Westfalenstr. 1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"14974","city":"Ludwigsfelde","street":"Zossener Landstr. 10","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"16321","city":"Bernau","street":"Rüdnitzer Chaussee 2","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"16816","city":"Neuruppin","street":"Nauener Str.","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"18069","city":"Lambrechtshagen","street":"Rostockerstr. 52","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"18109","city":"Rostock","street":"Werftallee","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"18182","city":"Mönchhagen","street":"B 105 Nr. 16","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"19061","city":"Schwerin","street":"Am Püsserkrug 2","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"19243","city":"Wittenburg","street":"Mühlenring 1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"19288","city":"Ludwigslust","street":"Großer Kamp 33","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"20539","city":"Hamburg","street":"Billstraße 31","location":"Im Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"22043","city":"Hamburg","street":"Schiffbeker Weg 299","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"22045","city":"Hamburg","street":"Ahrensburger Str. 183-187","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"22087","city":"Hamburg","street":"Mundsburger Damm 24","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"22159","city":"Hamburg","street":"Pezolddamm 136","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"22527","city":"Hamburg","street":"Koppelstr. 30","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"22761","city":"Hamburg","street":"Theodorstr. 1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"23564","city":"Lübeck","street":"Falkenstr. 33","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"24118","city":"Kiel","street":"Westring 341 a","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"24161","city":"Altenholz","street":"Dänischenhagener Straße B503","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"26789","city":"Leer","street":"Bremer Straße 67","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"30165","city":"Hannover","street":"Vahrenwalder Straße 138","location":"Im Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"30459","city":"Hannover","street":"Göttinger Chaussee 107","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"30900","city":"Wedemark","street":"Kaltenweider Str. 29","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"31228","city":"Peine","street":"Heinrich-Hertz-Str. 20","location":"Eingangsbereich"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"34121","city":"Kassel","street":"Kohlenstr. 119","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"36039","city":"Fulda","street":"Michelsrombacher Straße 6","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"36275","city":"Kirchheim","street":"Industriestr. 8","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"38126","city":"Braunschweig","street":"Helmstedter Str. 112","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"38440","city":"Wolfsburg","street":"Berliner Ring 10","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"39110","city":"Magdeburg","street":"Westring 48","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"39120","city":"Magdeburg","street":"Leipziger Chaussee 101","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"39365","city":"Marienborn","street":"BAB 2 Autohof","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"40468","city":"Düsseldorf","street":"Heinrich-Ehrhardt-Str. 14","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"40599","city":"Düsseldorf","street":"Am Schönenkamp 11","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"40629","city":"Düsseldorf","street":"Bergische Landstr. 166","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"40878","city":"Ratingen","street":"Düsseldorfer Str. 128","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"41515","city":"Grevenbroich","street":"Jülicher Str. 55","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"41542","city":"Dormagen","street":"Neusser Str. 1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"42115","city":"Wuppertal","street":"Varresbecker Str. 100","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"42549","city":"Velbert","street":"Heiligenhauser Str. 91","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"42699","city":"Solingen","street":"Löhdorfer Str. 197","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"42897","city":"Remscheid","street":"Borner Str. 21","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"45359","city":"Essen","street":"Aktienstr. 34 A","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"45525","city":"Hattingen","street":"Martin-Luther-Str. 18","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"49565","city":"Bramsche","street":"Engter Str. 5","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"50735","city":"Köln","street":"Neusser Landstr. 16","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"50969","city":"Köln","street":"Höninger Weg 12-14","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"53225","city":"Bonn","street":"Skt.-Augustiner-Str. 145","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"55130","city":"Mainz","street":"Wormser Str. 7","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"55252","city":"Wiesbaden","street":"Boelckestraße 27","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"56179","city":"Vallendar","street":"Rheinstr. 109","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"58135","city":"Hagen","street":"Berliner Str. 35 - 37","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"58332","city":"Schwelm","street":"Berliner Str. 6","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"58511","city":"Lüdenscheid","street":"Bräuckenstraße 81","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"60314","city":"Frankfurt am Main","street":"Hanauer Landstr. 178","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"60486","city":"Frankfurt am Main","street":"Wiesbadener Str. -Süd-","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"60529","city":"Frankfurt am Main","street":"Rheinlandstraße 45","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"60529","city":"Frankfurt am Main","street":"Rheinlandstraße 45","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"60549","city":"Frankfurt am Main","street":"Unterschweinstiege 2 a","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"60596","city":"Frankfurt am Main","street":"Stresemannallee 10","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"63654","city":"Büdingen","street":"An der Saline 13","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"64546","city":"Mörfelden-Walldorf","street":"Aschaffenburger Str. 1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"65199","city":"Wiesbaden","street":"Schönbergstraße 44 A","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"65385","city":"Rüdesheim","street":"Geisenheimer Str. 62","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"65439","city":"Flörsheim","street":"BAB 66, Nordseite","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"65439","city":"Flörsheim","street":"BAB 66, Südseite","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"65549","city":"Limburg","street":"Industriestr. 15","location":"Shop / Zusätzlich Werbewürfel auf Säule 2,5 m"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"68259","city":"Mannheim","street":"Feudenheimer Str. 60","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"69181","city":"Leimen ","street":"Schwetzinger Str. 12","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"70197","city":"Stuttgart","street":"Rotenwaldstr. 146","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"70563","city":"Stuttgart","street":"Hauptstr. 136","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"71636","city":"Ludwigsburg","street":"Schwieberdinger Str. 133","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"72762","city":"Reutlingen","street":"Konrad-Adenauer-Straße 32","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"73230","city":"Kirchheim unter Teck","street":"Schlierbacher Str. 71","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"73728","city":"Esslingen am Neckar","street":"Ulmer Str. 83","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"76744","city":"Wörth am Rhein","street":"Bahnhofstraße 42","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"76829","city":"Landau","street":"Westbahnstr. 1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"77694","city":"Kehl","street":"Straßburgerstr. 20","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"78166","city":"Donaueschingen","street":"Dürrheimer Straße 28","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"78224","city":"Singen","street":"Radolfzellerstraße 28","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"79114","city":"Freiburg","street":"Sundgauallee 25 Süd","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"79395","city":"Neuenburg am Rhein","street":"Westtangente 2","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"80686","city":"München","street":"Westendstr. 183","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"80802","city":"München","street":"Ungererstr. 54","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"81369","city":"München","street":"Passauer Str. 20","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"81671","city":"München","street":"Innsbrucker Ring 52","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"81925","city":"München","street":"Effner Str. 130","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"82418","city":"Murnau","street":"Weilheimer Str. 12","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"85356","city":"Freising","street":"Erdinger Str. 145","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"85521","city":"Ottobrunn","street":"Rosenheimer Landstr. 73","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"86152","city":"Augsburg","street":"An der Blauen Kappe 4","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"86899","city":"Landsberg am Lech","street":"Augsburger Str. 31/53","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"89231","city":"Neu-Ulm","street":"Ringstr. 122","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"90408","city":"Nürnberg","street":"Bucher Str. 108","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"90439","city":"Nürnberg","street":"Gustav-Adolf-Straße 49A","location":"Glasfassade am Zeitungsregal"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"92331","city":"Parsberg","street":"Im Grund 1","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"97080","city":"Würzburg","street":"Veitshöchheimer Str. 22","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"97421","city":"Schweinfurt","street":"Landwehr Straße 37","location":""}
+,
+{"bigger_location":"Esso-Tankstelle","zipcode":"99334","city":"Ichtershausen","street":"Thöreyer Str. 4","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle ","zipcode":"20535","city":"Hamburg","street":"Sievekingsallee 75","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle ","zipcode":"33330","city":"Gütersloh","street":"Nordring 100","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle ","zipcode":"48161","city":"Münster","street":"Am Rohrbusch 32","location":"Shop"}
+,
+{"bigger_location":"Esso-Tankstelle ","zipcode":"48268","city":"Greven","street":"Königstr. 32","location":"Outdoor Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Esso-Tankstelle ","zipcode":"58455","city":"Witten","street":"Dortmunder Str. 8","location":"Shop"}
+,
+{"bigger_location":"Europapassage","zipcode":"20095","city":"Hamburg","street":"Ballindamm 40","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"famila-Markt","zipcode":"17389","city":"Anklam","street":"Silostr. 2","location":"Mall neben Handyshop"}
+,
+{"bigger_location":"famila-Markt","zipcode":"18528","city":"Bergen","street":"Nonnenseestr. 1","location":"Windfang neben Inselkarte"}
+,
+{"bigger_location":"famila-Markt","zipcode":"19348","city":"Perleberg","street":"Schwarzer Weg 11","location":"Mall neben der Info"}
+,
+{"bigger_location":"famila-Markt","zipcode":"23554","city":"Lübeck","street":"Schwartauer Landstr. 4","location":"Mall neben Takko"}
+,
+{"bigger_location":"famila-Markt","zipcode":"23566","city":"Lübeck","street":"Wesloer Landstr. 50 - 70","location":"Eingangsbereich"}
+,
+{"bigger_location":"famila-Markt","zipcode":"23569","city":"Lübeck","street":"Möllerung 11 - 13","location":"Mall gegenüber Eingang"}
+,
+{"bigger_location":"famila-Markt","zipcode":"23611","city":"Sereetz","street":"Sereetzer Feld 1","location":"Eingangsbereich"}
+,
+{"bigger_location":"famila-Markt","zipcode":"23843","city":"Bad Oldesloe","street":"Lily-Braun-Str. 24-28","location":"Eingangsbereich"}
+,
+{"bigger_location":"famila-Markt","zipcode":"24109","city":"Kiel","street":"Kurt-Schumacher-Platz 4","location":""}
+,
+{"bigger_location":"famila-Markt","zipcode":"24113","city":"Kiel","street":"Seekoppelweg 2","location":"Mall"}
+,
+{"bigger_location":"famila-Markt","zipcode":"24147","city":"Kiel","street":"Preetzer Str. 298","location":"Mall"}
+,
+{"bigger_location":"famila-Markt","zipcode":"24387","city":"Schleswig","street":"Friedrich-Ebert-Str. 3","location":"Eingangsbereich - hinter dem Windfang"}
+,
+{"bigger_location":"famila-Markt","zipcode":"24536","city":"Neumünster","street":"Hauptstr. 43","location":"Mall gegenüber Kasse 1"}
+,
+{"bigger_location":"famila-Markt","zipcode":"25524","city":"Itzehoe","street":"Vor dem Delftor","location":"Mall"}
+,
+{"bigger_location":"famila-Markt","zipcode":"25746","city":"Heide","street":"Fritz-Thiedemann-Ring 40","location":"links neben Portamat"}
+,
+{"bigger_location":"famila-Markt","zipcode":"27356","city":"Rotenburg (Wümme)","street":"Auf dem Rusch 1","location":"Eingangsbereich neben Bäckerei"}
+,
+{"bigger_location":"famila-Markt","zipcode":"30851","city":"Langenhagen","street":"Hans-Böckler-Str. 60-66","location":"auf der Mall"}
+,
+{"bigger_location":"Finanz-Center","zipcode":"08058","city":"Zwickau","street":"Innere Plauensche Str. 22","location":"Finanz-Center"}
+,
+{"bigger_location":"Forum","zipcode":"63450","city":"Hanau","street":"Freiheitsplatz","location":"UG - auf der Mall"}
+,
+{"bigger_location":"Forum","zipcode":"63450","city":"Hanau","street":"Freiheitsplatz","location":"EG  - gegenüber H&M"}
+,
+{"bigger_location":"Forum Wetzlar","zipcode":"35576","city":"Wetzlar","street":"Am Forum 1","location":"Mall"}
+,
+{"bigger_location":"Fronhofer Galeria","zipcode":"53177","city":"Bonn","street":"Am Fronhof 9","location":"Mall links vom Nebeneingang"}
+,
+{"bigger_location":"Gemeinde","zipcode":"97250","city":"Erlabrunn","street":"Würzburger Straße 36","location":""}
+,
+{"bigger_location":"Geschäftshaus","zipcode":"53840","city":"Troisdorf-Altenrath","street":"Heidegraben 4","location":""}
+,
+{"bigger_location":"Gesundbrunnen-Center","zipcode":"13357","city":"Berlin","street":"Badstr. 4","location":"Indoor Eingangsbereich"}
+,
+{"bigger_location":"Gesundheits-Center","zipcode":"45149","city":"Essen","street":"Fulerumer Straße 225","location":"Wandeinbau separater Raum."}
+,
+{"bigger_location":"Globus Handelshof","zipcode":"63477","city":"Maintal","street":"Industriestraße 6","location":"Auf der Mall."}
+,
+{"bigger_location":"Gropius Passagen","zipcode":"12351","city":"Berlin","street":"Johannisthaler Chaussee 317","location":"Auf der Mall."}
+,
+{"bigger_location":"Hagebau Baumarkt","zipcode":"80809","city":"München","street":"Lerchenauer Str. 134","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Hagebau Baumarkt","zipcode":"81379","city":"München","street":"Hofmannstraße 4-10","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Hagebau Baumarkt","zipcode":"82008","city":"Unterhaching","street":"Grünwalder Weg 33","location":"Eingangsbereich"}
+,
+{"bigger_location":"Hagebau Baumarkt","zipcode":"82319","city":"Starnberg","street":"Gautinger Straße 41","location":"Im Windfang"}
+,
+{"bigger_location":"Hagebau Baumarkt","zipcode":"82377","city":"Penzberg","street":"Zibetholzweg 1","location":"Im Eingangsbereich hinter dem Windfang."}
+,
+{"bigger_location":"Halle Center Peißen","zipcode":"06188","city":"Landsberg","street":"Saarbrücker Str. 1","location":"nähe real"}
+,
+{"bigger_location":"Halle Center Peißen","zipcode":"06188","city":"Landsberg","street":"Saarbrücker Str. 1","location":"nähe \"ex\"- Praktiker"}
+,
+{"bigger_location":"HEM-Autohof","zipcode":"28816","city":"Stuhr","street":"Bremer Str. 112","location":"Shop links neben Tür"}
+,
+{"bigger_location":"HEM-Tankstelle","zipcode":"13089","city":"Berlin","street":"Romain-Rolland-Str. 2 - 4","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"HEM-Tankstelle","zipcode":"14772","city":"Brandenburg","street":"Rathenower Landstraße","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"HEM-Tankstelle","zipcode":"68305","city":"Mannheim","street":"Waldstr. 172","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Hit","zipcode":"85599","city":"Parsdorf","street":"Am Lerchenfeld 3","location":""}
+,
+{"bigger_location":"Hit Markt","zipcode":"51491","city":"Overath","street":"Olper Str. 20","location":""}
+,
+{"bigger_location":"Hit Markt","zipcode":"54550","city":"Daun","street":"Bahnhofstraße 3","location":""}
+,
+{"bigger_location":"Hit Markt","zipcode":"56727","city":"Mayen","street":"Hausener Str. 2 - 6","location":"Mall im Eingangsbereich"}
+,
+{"bigger_location":"Hit Markt","zipcode":"60598","city":"Frankfurt am Main","street":"Mörfelder Landstr. 129","location":"neben Fahrstuhl"}
+,
+{"bigger_location":"Hit Markt","zipcode":"63069","city":"Offenbach","street":"Sprendlinger Landstr. 140","location":"Indoor gegenüber Info"}
+,
+{"bigger_location":"Hit Markt","zipcode":"65510","city":"Idstein","street":"Wiesbadener Str. 58 ","location":"neben Toto Lotto"}
+,
+{"bigger_location":"Hit Markt","zipcode":"85435","city":"Erding","street":"Rudolf-Diesel-Str. 4","location":""}
+,
+{"bigger_location":"Holstein Center","zipcode":"25524","city":"Itzehoe","street":"Feldschmiedekamp 4","location":"Mietfläche an Mall"}
+,
+{"bigger_location":"IFA Insel Ferien Anlagen GmbH & Co. KG","zipcode":"08261","city":"Schöneck","street":"Hohe Reuth 5","location":"Gegenüber Rezeption Indoor"}
+,
+{"bigger_location":"ING-DiBa","zipcode":"30659","city":"Hannover","street":"Podbielskistr. 343","location":"Keller Hannover"}
+,
+{"bigger_location":"ING-DiBa","zipcode":"30659","city":"Hannover","street":"Podbielskistr. 343","location":"ING-DiBa Pylon"}
+,
+{"bigger_location":"ING-DiBa","zipcode":"60486","city":"Frankfurt am Main","street":"Theodor-Heuss-Allee 2","location":"Outdoor im Eingangsbereich"}
+,
+{"bigger_location":"ING-DiBa","zipcode":"90449","city":"Nürnberg","street":"Südwestpark 97","location":"Poststelle separater Raum"}
+,
+{"bigger_location":"KaDeWe","zipcode":"10789","city":"Berlin","street":"Tauentzienstraße 21 - 24","location":"EG"}
+,
+{"bigger_location":"KaDeWe","zipcode":"10789","city":"Berlin","street":"Tauentzienstraße 21","location":"2.OG"}
+,
+{"bigger_location":"KaDeWe","zipcode":"10789","city":"Berlin","street":"Tauentzienstraße 21","location":"6.OG"}
+,
+{"bigger_location":"KaDeWe","zipcode":"10789","city":"Berlin","street":"Tauentzienstraße 21","location":"3.OG"}
+,
+{"bigger_location":"Kaiser‘s","zipcode":"12107","city":"Berlin","street":"Großbeerenstr. 54","location":"Indoor Eingangsbereich"}
+,
+{"bigger_location":"Karstadt","zipcode":"01069","city":"Dresden","street":"Pragerstraße 12","location":"EG Ausgang Altmarkt"}
+,
+{"bigger_location":"Karstadt","zipcode":"10627","city":"Berlin","street":"Wilmersdorfer Straße 118","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"10719","city":"Berlin","street":"Kurfürstendamm 231","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"10967","city":"Berlin","street":"Hermannplatz ","location":"1. OG neben Treppenhaus Schmuckabt."}
+,
+{"bigger_location":"Karstadt","zipcode":"12163","city":"Berlin","street":"Schloßstraße 7 - 10","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"13353","city":"Berlin","street":"Müllerstraße 25","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"14467","city":"Potsdam","street":"Brandenburgerstr. 49/52","location":"EG neben Rolltreppe"}
+,
+{"bigger_location":"Karstadt","zipcode":"20095","city":"Hamburg","street":"Mönckebergstr. 16","location":"2.OG Sporthaus"}
+,
+{"bigger_location":"Karstadt","zipcode":"20095","city":"Hamburg","street":"Mönckebergstr. 16","location":"outdoor links"}
+,
+{"bigger_location":"Karstadt","zipcode":"20095","city":"Hamburg","street":"Mönckebergstr. 16","location":"outdoor rechts"}
+,
+{"bigger_location":"Karstadt","zipcode":"20354","city":"Hamburg","street":"Am Jungfernstieg 16-20","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"21073","city":"Hamburg","street":"Schloßmühlendamm 2","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"22041","city":"Hamburg","street":"Wandsbeker Markstr. 63-65","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"23552","city":"Lübeck","street":"Königstraße 54","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"24103","city":"Kiel","street":"Sophienblatt 2","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"27568","city":"Bremerhaven","street":"Bürgermeister-Smidt-Str. 50-64","location":"EG"}
+,
+{"bigger_location":"Karstadt","zipcode":"28195","city":"Bremen","street":"Obernstraße 5-33","location":"2.OG Lloydtreppe"}
+,
+{"bigger_location":"Karstadt","zipcode":"28195","city":"Bremen","street":"Obernstraße 5-33","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"30159","city":"Hannover","street":"Georgstr. 23","location":"Outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"35390","city":"Gießen","street":"Seltersweg 64","location":"2.OG"}
+,
+{"bigger_location":"Karstadt","zipcode":"38100","city":"Braunschweig","street":"Schuhstr. 29-34","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"40212","city":"Düsseldorf","street":"Schadowstraße 93","location":"2.OG"}
+,
+{"bigger_location":"Karstadt","zipcode":"41236","city":"Mönchengladbach","street":"Markt 10","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"44137","city":"Dortmund","street":"Westenhellweg 30-36","location":"EG Eingang Haupthaus"}
+,
+{"bigger_location":"Karstadt","zipcode":"44137","city":"Dortmund","street":"Westenhellweg 30-36","location":"EG im Reisebüro"}
+,
+{"bigger_location":"Karstadt","zipcode":"44791","city":"Bochum","street":"Ruhrpark","location":"EG neben der Rolltreppe"}
+,
+{"bigger_location":"Karstadt","zipcode":"45127","city":"Essen","street":"Limbecker Platz 1A","location":"neben KQFS-Center 2"}
+,
+{"bigger_location":"Karstadt","zipcode":"45133","city":"Essen","street":"Theodor-Althoff-Straße 2","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"45472","city":"Mülheim","street":"Humboldtring 5","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"48143","city":"Münster","street":"Salzstraße 47 - 50","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"50667","city":"Köln","street":"Breite Straße 103 - 135","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"53111","city":"Bonn","street":"Poststraße 23","location":"EG"}
+,
+{"bigger_location":"Karstadt","zipcode":"54290","city":"Trier","street":"Simeonstr. 46","location":"EG Eingang Moselstraße"}
+,
+{"bigger_location":"Karstadt","zipcode":"57072","city":"Siegen","street":"Kölnerstraße 41","location":"Ausgang Parkdeck C"}
+,
+{"bigger_location":"Karstadt","zipcode":"60313","city":"Frankfurt am Main","street":"Zeil 90","location":"EG Eckeingang Zeil im Windfang"}
+,
+{"bigger_location":"Karstadt","zipcode":"60313","city":"Frankfurt am Main","street":"Zeil 90","location":"EG Haupteingang Zeil Strumpfabt."}
+,
+{"bigger_location":"Karstadt","zipcode":"64283","city":"Darmstadt","street":"Elisabethenstraße 15","location":"outdoor Passage LuisenCenter"}
+,
+{"bigger_location":"Karstadt","zipcode":"65549","city":"Limburg","street":"Werner-Senger-Straße 15-17","location":"GAA durch die Wand / Outdoor zur Fußgängerzone"}
+,
+{"bigger_location":"Karstadt","zipcode":"65843","city":"Sulzbach","street":"Main-Taunus-Zentrum","location":""}
+,
+{"bigger_location":"Karstadt","zipcode":"66111","city":"Saarbrücken","street":"Bahnhofstraße 15","location":"EG nähe Rolltreppe"}
+,
+{"bigger_location":"Karstadt","zipcode":"68519","city":"Viernheim","street":"Robert-Schumann-Str. 2","location":"EG"}
+,
+{"bigger_location":"Karstadt","zipcode":"76133","city":"Karlsruhe","street":"Kaiserstraße 147-159","location":"EG Kaiser/Lammstr. Windfang"}
+,
+{"bigger_location":"Karstadt","zipcode":"78224","city":"Singen","street":"Bahnhofstraße 19-21","location":"EG neben den Fahrstühlen"}
+,
+{"bigger_location":"Karstadt","zipcode":"79098","city":"Freiburg","street":"Kaiser-Joseph-Str. 165","location":"EG Eingang Nußbaumstraße"}
+,
+{"bigger_location":"Karstadt","zipcode":"80335","city":"München","street":"Bahnhofsplatz 7","location":"EG"}
+,
+{"bigger_location":"Karstadt","zipcode":"80797","city":"München","street":"Schleißheimer Str. 93","location":"UG"}
+,
+{"bigger_location":"Karstadt","zipcode":"86150","city":"Augsburg","street":"Bürgermeister-Fischer-Str. 6-10","location":"outdoor"}
+,
+{"bigger_location":"Karstadt","zipcode":"87700","city":"Memmingen","street":"Königsgraben 3","location":"UG"}
+,
+{"bigger_location":"Karstadt","zipcode":"90402","city":"Nürnberg","street":"Königstraße 14","location":"EG"}
+,
+{"bigger_location":"Karstadt","zipcode":"96047","city":"Bamberg","street":"Grüner Markt 23","location":"Durch die Wand / Outdoor zur Fußgängerzone"}
+,
+{"bigger_location":"Karstadt","zipcode":"99084","city":"Erfurt","street":"Am Anger 1-3","location":"indoor"}
+,
+{"bigger_location":"Karstadt Gewandhaus","zipcode":"38100","city":"Braunschweig","street":"Poststraße 4 - 5","location":"outdoor"}
+,
+{"bigger_location":"Kaufland","zipcode":"01139","city":"Dresden","street":"Peschelstr. 33","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"01309","city":"Dresden-Striesen","street":"Borsbergstr. 35","location":"Eingangsbereich hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"01445","city":"Radebeul","street":"Weintraubenstr. 31","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"01640","city":"Coswig","street":"Salzstraße 16a","location":"auf der Mall bei den Fahrstühlen"}
+,
+{"bigger_location":"Kaufland","zipcode":"01662","city":"Meißen","street":"Schützestraße 1","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"01917","city":"Kamenz","street":"An der Windmühle 2","location":"Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"01917","city":"Kamenz","street":"Willi-Muhle-Straße 25","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"02625","city":"Bautzen","street":"Gesundbrunnenring 62","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"02708","city":"Löbau","street":"Rumburger Str. 9","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"02763","city":"Zittau","street":"Christian-Kaimann-Str. 44","location":"Eingangsbereich neben Info"}
+,
+{"bigger_location":"Kaufland","zipcode":"02763","city":"Zittau","street":"Äußere Weberstraße 87","location":"hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"03044","city":"Cottbus","street":"Sielower Chaussee 38","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"03172","city":"Guben","street":"Kaltenborner Straße 68","location":"Nische linke Seite hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"03222","city":"Lübbenau","street":"Am Kaufland 2","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"04159","city":"Leipzig","street":"Georg-Schumann-Str. 290","location":"hinter dem Windfang links auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"04249","city":"Leipzig","street":"Anton-Zickmantel-Straße 42","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"04509","city":"Delitzsch","street":"Sachsenstr. 1","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"04600","city":"Altenburg","street":"Käthe-Kollwitz-Str. 43","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"04720","city":"Döbeln","street":"Schillerstraße 6","location":"im Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"06128","city":"Halle (Saale)","street":"Südstadtring 90","location":"Mall serarater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"06712","city":"Zeitz","street":"Hainichener Dorfstraße 1","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"06886","city":"Lutherstadt Wittenberg","street":"Lerchenbergstraße 112 - 113","location":"hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"08288","city":"Rodewisch","street":"Zur Sternkoppel 1","location":"Eingangsbereich / Indoor"}
+,
+{"bigger_location":"Kaufland","zipcode":"09405","city":"Zschopau","street":"Chemnitzer Str. 124","location":"Mall neben Blumenladen"}
+,
+{"bigger_location":"Kaufland","zipcode":"12103","city":"Berlin","street":"Schöneberger Str. 7","location":"linke Seite hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"12555","city":"Berlin","street":"Friedrichshagener Str.37-43","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"13355","city":"Berlin","street":"Brunnenstraße 106","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"13593","city":"Berlin","street":"Wilhelmsstraße 21 - 25","location":"Durch die Wand zum Parkplatz"}
+,
+{"bigger_location":"Kaufland","zipcode":"14471","city":"Potsdam","street":"Zeppelinstr. 132","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"15234","city":"Frankfurt/Oder","street":"Josef-Gesing-Str. 6","location":"Mall Indoor"}
+,
+{"bigger_location":"Kaufland","zipcode":"15517","city":"Fürstenwalde","street":"Alte Langewahler Chaussee 11","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"15537","city":"Erkner","street":"Friedrichstr. 13","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"15890","city":"Eisenhüttenstadt","street":"Fährstr. 35","location":"Eingansbereich gegenüber Eingang"}
+,
+{"bigger_location":"Kaufland","zipcode":"16225","city":"Eberswalde","street":"Angermünder Str. 55","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"16909","city":"Wittstock","street":"Meyenburger Chaussee 36","location":"auf der Mall links hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"17235","city":"Neustrelitz","street":"Strelitzer Straße 24","location":"Auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"24109","city":"Kiel - Mettendorf","street":"Skandinaviendamm 299","location":"Aussenfassade zum Parkplatz"}
+,
+{"bigger_location":"Kaufland","zipcode":"29664","city":"Walsrode","street":"Heinrich-Hertz-Str. 9","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"31061","city":"Alfeld","street":"Sedanstraße 16 - 18","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"31228","city":"Peine","street":"Heinrich-hertz-Str. 12","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"32423","city":"Minden","street":"Lindenstraße 24 / Obermarktpassage","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"33102","city":"Paderborn","street":"Riemekestraße 37","location":"Eingangsbereich hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"33378","city":"Rheda-Wiedenbrück","street":"Bahnhofstraße 36","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"37327","city":"Leinefelde-Worbis","street":"Bahnhofstr. 48","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"37603","city":"Holzminden","street":"Bülte 4","location":"Mall - links neben der Apotheke"}
+,
+{"bigger_location":"Kaufland","zipcode":"41515","city":"Grevenbroich","street":"Ostwall 31","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"42551","city":"Velbert","street":"Friedrichstraße 262","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"42719","city":"Solingen","street":"Stresemannstr. 37","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"42859","city":"Remscheid","street":"Presover Straße 20","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"44145","city":"Dortmund","street":"Bornstr. 160","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"44287","city":"Dortmund","street":"Aplerbecker Marktplatz 7 - 10","location":"Wandeinbau separater Raum\naum"}
+,
+{"bigger_location":"Kaufland","zipcode":"44534","city":"Lünen","street":"Merschstr. 19","location":"Mall gegenüber der Treppe"}
+,
+{"bigger_location":"Kaufland","zipcode":"44892","city":"Bochum","street":"Ümminger Str. 90","location":"Outdoor separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"45329","city":"Essen","street":"Altenessener Straße 411","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"45355","city":"Essen-Borbeck","street":"Gerichtstraße 25","location":"Auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"45768","city":"Marl","street":"Marler Stern 57","location":"Eingangsbereich hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"45770","city":"Marl","street":"Lipper Weg 4","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"46145","city":"Oberhausen","street":"Bahnhofstraße 57","location":"Eingangsbereich hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"47059","city":"Duisburg","street":"Auf der Höhe 20","location":"links neben Personaleingang"}
+,
+{"bigger_location":"Kaufland","zipcode":"47119","city":"Duisburg","street":"Friedrich-Ebert-Str. 2","location":"Auf der Mall beim Eingang Parkhaus"}
+,
+{"bigger_location":"Kaufland","zipcode":"47166","city":"Duisburg - Alt Hamborn","street":"Duisburger Straße 303","location":"hinter dem Windfang auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"47475","city":"Kamp-Lintfort","street":"Moerser Straße 290","location":"Mall - bei den Einkaufswagen"}
+,
+{"bigger_location":"Kaufland","zipcode":"48282","city":"Emsdetten","street":"Katthagen 6 - 8","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"49525","city":"Lengerich","street":"Ringeler Straße 24 - 26","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"50171","city":"Kerpen","street":"Sindorfer Str. 65 - 69","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"50259","city":"Pulheim","street":"Farehamstr./Venloer Str.","location":"Mall vor der ersten Säule"}
+,
+{"bigger_location":"Kaufland","zipcode":"50823","city":"Köln","street":"Thebäerstraße 9","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"53489","city":"Sinzig","street":"Industriestraße 10","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"53721","city":"Siegburg","street":"Wilhelm-Ostwald-Straße F1","location":"hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"54329","city":"Konz","street":"Saar-Mosel-Platz 2","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"55543","city":"Bad Kreuznach","street":"Schwabenheimer Weg 5","location":"Nische auf der Mall hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"56170","city":"Bendorf","street":"Hauptstraße 131","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"56564","city":"Neuwied","street":"Heddesdorfer Str. 11","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"56727","city":"Mayen","street":"Koblenzer Straße 176","location":"hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"57072","city":"Siegen","street":"Hagener Straße 133","location":"Auf der Mall neben Fotofix."}
+,
+{"bigger_location":"Kaufland","zipcode":"57223","city":"Kreuztal","street":"Marburger Str. 41","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"57462","city":"Olpe","street":"Martinstr. 36","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"58285","city":"Gevelsberg","street":"Großer Markt 7","location":"auf der Mall neben den Rolltreppen"}
+,
+{"bigger_location":"Kaufland","zipcode":"59229","city":"Ahlen","street":"Kleiwellenfeld 16","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"59457","city":"Werl","street":"Soester Straße 26","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"60386","city":"Frankfurt am Main","street":"Wächtersbacherstraße 75","location":"Im Windfang links neben dem Eingang"}
+,
+{"bigger_location":"Kaufland","zipcode":"61231","city":"Bad Nauheim","street":"Ketteler Str. 10","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"63322","city":"Rödermark","street":"Ober-Rodener-Straße 13","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"64807","city":"Dieburg","street":"Im Flürchen 3","location":"Eingangsbereich neben Tür"}
+,
+{"bigger_location":"Kaufland","zipcode":"66292","city":"Riegelsberg","street":"Saarbrücker Straße 262","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"66822","city":"Lebach","street":"Poststr. 9","location":"Indoor"}
+,
+{"bigger_location":"Kaufland","zipcode":"67346","city":"Speyer","street":"Auestr. 22","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"67547","city":"Worms","street":"Mainzerstraße 150","location":"Eingangsbereich rechts hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"68169","city":"Mannheim","street":"Maybachstr. 28","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"69221","city":"Dossenheim","street":"Gewerbestr. 19","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"70736","city":"Fellbach","street":"Merowinger Str. 5","location":"neben Toto Lotto"}
+,
+{"bigger_location":"Kaufland","zipcode":"71063","city":"Sindelfingen","street":"Calwer Str. 4","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"71065","city":"Sindelfingen","street":"","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"71522","city":"Backnang","street":"Sulzbacher Str. 201","location":"hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"71522","city":"Backnang","street":"Industriestraße 34","location":"Wandeinbau Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"72250","city":"Freudenstadt","street":"Max-Eyth-Str. 14","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"72379","city":"Hechingen","street":"Kaullastraße 1","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"72488","city":"Sigmaringen","street":"Georg-Zimmerer-Str. 15","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"72622","city":"Nürtingen","street":"Europastr. 7","location":"Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"73033","city":"Göppingen","street":"Stuttgarter Str. 2","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"73066","city":"Uhingen","street":"Bleichereistraße 54","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"73312","city":"Geislingen an der Steige","street":"Neuwiesenstraße 25","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"73527","city":"Schwäbisch-Gmünd","street":"Hauptstraße 6","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"74321","city":"Bietigheim","street":"Prinz-Eugen-Str. 10","location":"Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"76532","city":"Baden-Baden","street":"Rheinstraße 134","location":"Auf der Mall neben Lotto."}
+,
+{"bigger_location":"Kaufland","zipcode":"78713","city":"Schramberg","street":"Bahnhofstraße 30","location":"Wandeinbau Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"79106","city":"Freiburg","street":"Waldkircher Str. 57","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"82538","city":"Geretsried","street":"Bayerwaldstraße 2","location":"Im Eingangsbereich."}
+,
+{"bigger_location":"Kaufland","zipcode":"83026","city":"Rosenheim","street":"Außere Münchener Straße 100","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"83043","city":"Bad Aibling","street":"Grassinger Straße 16","location":"links neben dem Drehkreuz"}
+,
+{"bigger_location":"Kaufland","zipcode":"83278","city":"Traunstein","street":"Theresienstr. 2","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"83395","city":"Freilassing","street":"Verdistraße 15","location":"Rechts hinter dem Windfang. Mit der Rückseite an die Wand links neben der Tür."}
+,
+{"bigger_location":"Kaufland","zipcode":"84130","city":"Dingolfing","street":"Frontenhausener Str. 1","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"84307","city":"Eggenfelden","street":"Lindhofstraße 10","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"84489","city":"Burghausen","street":"Lindach 10","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"85221","city":"Dachau","street":"Danziger Str. 1","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"85276","city":"Pfaffenhofen a.d. Ilm","street":"Joseph-Fraunhofer-Straße 31","location":"Hinter dem Windfang rechts."}
+,
+{"bigger_location":"Kaufland","zipcode":"85276","city":"Pfaffenhofen","street":"Max-Weinberger-Straße 9","location":"Im Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"85368","city":"Moosburg","street":"Degernpoint M1","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"88348","city":"Bad Saulgau","street":"Am Schlehenrain 1","location":"Eingangsbereich neben Bäcker"}
+,
+{"bigger_location":"Kaufland","zipcode":"88400","city":"Biberach an der Riss","street":"Obere Stegwiesen 10","location":"Auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"88471","city":"Laupheim","street":"Ulmer Straße 13","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"89155","city":"Erbach","street":"Heinrich-Hammer-Str. 6","location":"Wandeinbau separater Raum"}
+,
+{"bigger_location":"Kaufland","zipcode":"89231","city":"Neu-Ulm","street":"Memminger Straße 54","location":"Neben der Rolltreppe."}
+,
+{"bigger_location":"Kaufland","zipcode":"89407","city":"Dillingen","street":"Johannes-Scheiffele-Str. 3-7","location":"gegenüber Rolltreppe - neben Aufzug zum Parkdeck"}
+,
+{"bigger_location":"Kaufland","zipcode":"89518","city":"Heidenheim","street":"Wilhelmstraße 148","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"90439","city":"Nürnberg","street":"Schwabacher Straße 99","location":"Im Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"90443","city":"Nürnberg","street":"Dianaplatz 23- 25","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"90473","city":"Nürnberg","street":"Oppelner Str. 223","location":"auf der Mall bei den Aufzügen"}
+,
+{"bigger_location":"Kaufland","zipcode":"90522","city":"Oberasbach","street":"Rothenburger Straße 70","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"91315","city":"Höchstadt","street":"Rothenburger Str. 19","location":"auf der Mall - neben dem Kassenbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"92318","city":"Neumarkt","street":"Altdorfer Straße 63","location":"hinterm Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"92637","city":"Weiden","street":"Untere Bauscher Str. 25","location":"Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"93333","city":"Neustadt a.d.Donau","street":"Gewerpepark 48","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"94036","city":"Passau","street":"Neuburger Str. 128","location":"Eingangsbereich"}
+,
+{"bigger_location":"Kaufland","zipcode":"94051","city":"Hauzenberg","street":"Florianstraße 1","location":"Auf der Mall an der Rolltreppe."}
+,
+{"bigger_location":"Kaufland","zipcode":"94060","city":"Pocking","street":"Passauer Straße 160","location":"auf der Mall"}
+,
+{"bigger_location":"Kaufland","zipcode":"95032","city":"Hof","street":"Hans-Böckler-Straße 19","location":"Eingangsbreich, hinter dem Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"95448","city":"Bayreuth","street":"Weiherstr. 27","location":"Mall neben Takko"}
+,
+{"bigger_location":"Kaufland","zipcode":"96515","city":"Sonneberg","street":"Bettelhecker Straße 155","location":""}
+,
+{"bigger_location":"Kaufland","zipcode":"97688","city":"Bad Kissingen","street":"Steubenstr. 1","location":"rechts im Windfang"}
+,
+{"bigger_location":"Kaufland","zipcode":"99510","city":"Apolda","street":"Bernhard-Prager-Gasse 1 - 7","location":"neben Lotto"}
+,
+{"bigger_location":"Kaufland ","zipcode":"91257","city":"Pegnitz","street":"Nürnberger Straße 22","location":""}
+,
+{"bigger_location":"KaufMarkt","zipcode":"12683","city":"Berlin","street":"Weißenhöher Str. 88 - 108","location":"Mall ( im Kaufmarkt )"}
+,
+{"bigger_location":"KaufMarkt","zipcode":"14624","city":"Dallgow-Döberitz","street":"Döberitzer Weg 3","location":"Indoor neben Kaufmarkt"}
+,
+{"bigger_location":"KaufPark Eiche","zipcode":"16356","city":"Ahrensfelde","street":"Landsberger Chaussee 17","location":"Eingangsbereich Indoor"}
+,
+{"bigger_location":"Königsbau Passagen","zipcode":"70173","city":"Stuttgart","street":"Königstraße 26","location":"Eingangsbereich"}
+,
+{"bigger_location":"Konzernforum Lindencorso","zipcode":"10117","city":"Berlin","street":"Unter den Linden 21","location":"Wandeinbau \"Tapetentür\""}
+,
+{"bigger_location":"Kurpfalz Center","zipcode":"68309","city":"Mannheim","street":"Spreewaldallee 44 - 50","location":"Auf der Mall"}
+,
+{"bigger_location":"Kurverwaltung","zipcode":"27632","city":"Dorum","street":"Am Kutterhafen 3","location":"Outdoor neben Bushaltestelle"}
+,
+{"bigger_location":"Landesmesse Stuttgart","zipcode":"70629","city":"Stuttgart","street":"Flughafenrandstr., Eingang West - Halle 8","location":"Halle 6"}
+,
+{"bigger_location":"Landesmesse Stuttgart","zipcode":"70629","city":"Stuttgart","street":"Flughafenrandstr. 43","location":"Eingang Ost - Atrium"}
+,
+{"bigger_location":"Landesmesse Stuttgart","zipcode":"70629","city":"Stuttgart","street":"Flughafenrandstr., Mittlerer Höhensprung","location":"Mittlerer Höhensprung neben Eingang Halle 5"}
+,
+{"bigger_location":"Linden Center","zipcode":"13051","city":"Berlin","street":"Prerower Platz 1","location":"neben Nordsee"}
+,
+{"bigger_location":"Löhr Center","zipcode":"56068","city":"Koblenz","street":"Hohenfelder Straße 22","location":"2.OG"}
+,
+{"bigger_location":"Markant","zipcode":"18435","city":"Stralsund","street":"Hans-Fallada-Straße 1","location":""}
+,
+{"bigger_location":"Markant","zipcode":"23936","city":"Grevesmühlen","street":"Gebhartstraße 4","location":""}
+,
+{"bigger_location":"Markant","zipcode":"24116","city":"Kiel","street":"Alte Weide 4","location":""}
+,
+{"bigger_location":"Markant-Markt","zipcode":"23970","city":"Wismar","street":"Professor-Frege-Straße 45","location":"Auf der Mall beim Tabakladen"}
+,
+{"bigger_location":"Markant-Markt","zipcode":"24148","city":"Kiel","street":"Philipp-Reis-Weg 2","location":"Eingang Durchgang zum Getränkemarkt"}
+,
+{"bigger_location":"Markant-Markt","zipcode":"24217","city":"Schönberg","street":"Eichkamp 9","location":"Hinter dem Windfang rechts."}
+,
+{"bigger_location":"Markant-Markt","zipcode":"24451","city":"Quickborn","street":"Feldbehnstr. 35","location":"Neben dem Leergutautomaten."}
+,
+{"bigger_location":"Marktkauf","zipcode":"31515","city":"Wunstorf","street":"Hagenburger Straße 20","location":"Im Eingangsbereich neben der Leergut-Annahme."}
+,
+{"bigger_location":"Marktplatzcenter","zipcode":"17033","city":"Neubrandenburg","street":"Krämerstraße 1","location":"Foyer UG in einer Nische"}
+,
+{"bigger_location":"Marriott Hotel","zipcode":"10785","city":"Berlin","street":"Inge-Beisheim-Platz 1","location":""}
+,
+{"bigger_location":"Marriott Hotel","zipcode":"60486","city":"Frankfurt am Main","street":"Hamburger Allee 2 - 10","location":"Indoor neben Business Center"}
+,
+{"bigger_location":"Marstall-Center","zipcode":"71634","city":"Ludwigsburg","street":"Marstall 1","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"01069","city":"Dresden","street":"Prager Straße 15","location":"UG"}
+,
+{"bigger_location":"Media Markt","zipcode":"03051","city":"Cottbus","street":"Am Seegraben 20 C","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"07747","city":"Jena","street":"Stadtrodaer Str. 105","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"08058","city":"Zwickau","street":"Franz-Mehring-Str. 169","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"08393","city":"Meerane","street":"Guteborner Allee 1","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"08527","city":"Plauen","street":"Dürerstr. 28","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"12043","city":"Berlin","street":"Karl-Marx-Str. 66","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"12529","city":"Schönefeld","street":"Am Rondell 3","location":"Im Windfang"}
+,
+{"bigger_location":"Media Markt","zipcode":"13357","city":"Berlin","street":"Pankstr. 32 - 39","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"13507","city":"Berlin","street":"Am Borsigturm 2","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"13597","city":"Berlin","street":"An den Freiheitswiesen 5","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"17491","city":"Greifswald","street":"Anklamer Landstraße 1","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"18055","city":"Rostock","street":"Timmermannstrat 11 a","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"18437","city":"Stralsund","street":"Grünhufer Bogen 13 - 17","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"19053","city":"Schwerin","street":"Marienplatz 5 - 7","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"21339","city":"Lüneburg","street":"Lüner Rennbahn 4","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"21614","city":"Buxtehude","street":"Lüneburger Schanze 17","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"21682","city":"Stade","street":"Haddorfer Grenzweg 2a","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"22047","city":"Hamburg-Wandsbek","street":"Friedrich-Ebert-Damm 110","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"22339","city":"Hamburg","street":"Poppenbütteler Weg 31","location":"an den Rolltreppen"}
+,
+{"bigger_location":"Media Markt","zipcode":"22529","city":"Hamburg","street":"Nedderfeld 70","location":"1.OG"}
+,
+{"bigger_location":"Media Markt","zipcode":"22765","city":"Hamburg","street":"Paul-Nevermann-Platz 15","location":"1. OG Bahnhof Altona"}
+,
+{"bigger_location":"Media Markt","zipcode":"24558","city":"Henstedt-Ulzburg","street":"Kirchweg 88","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"25469","city":"Halstenbek","street":"Gärtnerstr. 169","location":"Windfang"}
+,
+{"bigger_location":"Media Markt","zipcode":"25746","city":"Heide","street":"Schanzenstr. 11 / Gewerbegebiet Ost","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"26129","city":"Oldenburg","street":"Posthalterweg 15","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"26871","city":"Papenburg","street":"An der Alten Werft 13","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"27755","city":"Delmenhorst","street":"Seestraße 7","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"28237","city":"Bremen","street":"AG-Weser-Straße 3","location":"EKZ Waterfront"}
+,
+{"bigger_location":"Media Markt","zipcode":"28307","city":"Bremen","street":"Hans-Bredow-Str. 19","location":"Weserpark"}
+,
+{"bigger_location":"Media Markt","zipcode":"28816","city":"Stuhr","street":"Drei-K-Weg 25a","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"30519","city":"Hannover","street":"Hildesheimer Str. 410","location":"Eingangsbereich bei der Info"}
+,
+{"bigger_location":"Media Markt","zipcode":"31135","city":"Hildesheim","street":"Bavenstedter Str. 65","location":"Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"31582","city":"Nienburg","street":"Schlossplatz 5","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"31789","city":"Hameln","street":"Böcklerstr. 5","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"32457","city":"Porta Westfalica","street":"Feldstr. 32","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"33330","city":"Gütersloh","street":"Vennstr. 40","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"35037","city":"Marburg","street":"Erlenring 19","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"37075","city":"Göttingen","street":"Hannoversche Str. 53 c","location":"1.OG"}
+,
+{"bigger_location":"Media Markt","zipcode":"38100","city":"Braunschweig","street":"Hintern Brüdern 27 - 30","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"38820","city":"Halberstadt","street":"Quedlinburger Landstraße 12","location":"Windfang"}
+,
+{"bigger_location":"Media Markt","zipcode":"39128","city":"Magdeburg","street":"Am Pfahlberg 7","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"40217","city":"Düsseldorf","street":"Friedrichstr. 129 - 133","location":"Service Center"}
+,
+{"bigger_location":"Media Markt","zipcode":"40235","city":"Düsseldorf","street":"Metrostr. 16","location":"Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"41065","city":"Mönchengladbach","street":"Breitenbachstr. 50","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"41464","city":"Neuss","street":"Konrad-Adenauer-Ring 95","location":"Kassenbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"42103","city":"Wuppertal","street":"Friedrich-Engels-Allee 34","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"42551","city":"Velbert","street":"Friedrichstr. 303","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"44579","city":"Castrop-Rauxel","street":"Siemensstr. 16","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"44791","city":"Bochum","street":"Am Einkaufszentrum EKZ Ruhrpark","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"44809","city":"Bochum","street":"Hofsteder Str. 194 - 196","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"45475","city":"Mülheim","street":"Mannesmannallee 31, EKZ Dümpten","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"47169","city":"Duisburg","street":"August-Bebel-Platz 20","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"47269","city":"Duisburg","street":"Keniastr. 37","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"50858","city":"Köln","street":"Max-Planck-Str. 24","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"51103","city":"Köln","street":"Vietorstr. 7","location":"1.OG Köln Arcaden"}
+,
+{"bigger_location":"Media Markt","zipcode":"52064","city":"Aachen","street":"Franzstr. 6","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"52249","city":"Eschweiler","street":"Auerbachstr. 30","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"55543","city":"Bad Kreuznach","street":"Wöllsteiner Str. 10","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"55743","city":"Idar-Oberstein","street":"John-F.-Kennedy-Str. 1","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"57076","city":"Siegen","street":"Hauptmarkt 1","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"63329","city":"Egelsbach","street":"Kurt-Schumacher-Ring 3","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"63584","city":"Gründau","street":"Rudolf-Walther-Str. 6","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"63741","city":"Aschaffenburg","street":"Mainaschaffer Str. 115","location":"Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"64331","city":"Weiterstadt","street":"Robert-Koch-Str. 18","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"64646","city":"Heppenheim","street":"Tiergartenstr. 7","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"65474","city":"Bischofsheim","street":"Neben dem Mühlweg 4 b","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"66115","city":"Saarbrücken","street":"Dr.-Tietz-Str. 13","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"66538","city":"Neunkirchen","street":"Kirkeler Str. 50","location":"Windfang"}
+,
+{"bigger_location":"Media Markt","zipcode":"67346","city":"Speyer","street":"Wormser Landstr. 94","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"67433","city":"Neustadt a.d. Weinstraße","street":"Chemnitzer Str. 33","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"68199","city":"Mannheim","street":"Flößwörthstraße 65","location":"Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"68307","city":"Mannheim","street":"Frankenthaler Str. 129","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"68519","city":"Viernheim","street":"Bürgermeister-Neff-Str. 17","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"69115","city":"Heidelberg","street":"Hebelstr. 22","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"70736","city":"Fellbach ","street":"Bühlstr. 140","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"72458","city":"Albstadt","street":"Sonnenstr. 30","location":"1. OG Albcenter"}
+,
+{"bigger_location":"Media Markt","zipcode":"73054","city":"Eislingen","street":"Steinbeissstr. 2","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"73431","city":"Aalen","street":"Carl-Zeiß-Str. 96","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"73525","city":"Schwäbisch-Gmünd","street":"Mühlweg 5","location":"an den Rolltreppen"}
+,
+{"bigger_location":"Media Markt","zipcode":"73614","city":"Schorndorf","street":"Heinkelstr. 25","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"73733","city":"Esslingen am Neckar","street":"Weilstr. 227","location":"1.OG Neckar Center"}
+,
+{"bigger_location":"Media Markt","zipcode":"74523","city":"Schwäbisch Hall","street":"Stuttgarter Str. 157","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"74564","city":"Crailsheim","street":"Hofwiesenstr. 39","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"76135","city":"Karlsruhe","street":"Unterweingartenfeld 4","location":"Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"76829","city":"Landau","street":"Klaus-von-Klitzing-Str. 5","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"77656","city":"Offenburg","street":"Heinrich-Hertz-Str. 6","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Media Markt","zipcode":"78073","city":"Bad Dürrheim","street":"Schwenninger Str. 38","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"78467","city":"Konstanz","street":"Schneckenburgstr. 2","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"80939","city":"München","street":"Maria-Probst-Str. 11","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"83026","city":"Rosenheim","street":"Georg-Aicher-Straße 10","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"83278","city":"Traunstein","street":"Haslacher Feld 1","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"84030","city":"Landshut","street":"Gaußstr. 1","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"86159","city":"Augsburg","street":"Eichleitnerstr. 34","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"87700","city":"Memmingen","street":"Frauenhoferstr. 9","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"88045","city":"Friedrichshafen","street":"Meisterhofener Str. 14","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"89077","city":"Ulm","street":"Blaubeurer Str. 24","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"90431","city":"Nürnberg","street":"Virnsberger Str. 2 - 4","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"91056","city":"Erlangen","street":"Frauenauracher Str. 108","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"91522","city":"Ansbach","street":"Rothenburger Straße 15","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"92637","city":"Weiden","street":"Regensburger Str. 61","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"94036","city":"Passau","street":"Regensburger Str. 37","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"95028","city":"Hof","street":"Äußere Michaelisbrücke 2","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"95445","city":"Bayreuth","street":"Spinnereistr. 4","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"96103","city":"Hallstadt","street":"Laubanger 31","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"96450","city":"Coburg","street":"Niorter Straße 20","location":"Im Windfang rechte Seite."}
+,
+{"bigger_location":"Media Markt","zipcode":"97076","city":"Würzburg","street":"Am Handelshof 2","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"97080","city":"Würzburg","street":"Alfred-Nobel-Str. 3","location":""}
+,
+{"bigger_location":"Media Markt","zipcode":"98544","city":"Zella-Mehlis","street":"Industriestr. 4","location":"Eingangsbereich"}
+,
+{"bigger_location":"Messe Berlin","zipcode":"14055","city":"Berlin","street":"Messedamm 22","location":"Halle 19 Indoor"}
+,
+{"bigger_location":"Messe Berlin","zipcode":"14055","city":"Berlin","street":"Messedamm 22","location":"Übergang 1.2-2.2 Indoor"}
+,
+{"bigger_location":"Mönkhof Karree","zipcode":"23562","city":"Lübeck","street":"Alexander-Fleming-Str. 1","location":"Mall neben Rolltreppe"}
+,
+{"bigger_location":"Neue Hopfenpost","zipcode":"80335","city":"München","street":"Seidlstraße","location":"Mall"}
+,
+{"bigger_location":"Oberpollinger","zipcode":"80331","city":"München","street":"Neuhauser Straße 18","location":"outdoor"}
+,
+{"bigger_location":"OBI","zipcode":"83064","city":"Raubling","street":"Hochstraße 5","location":""}
+,
+{"bigger_location":"OMV-Tankstelle","zipcode":"76646","city":"Bruchsal","street":"Kammerfortstr. 4","location":"Shop rechts neben Tür Indoor"}
+,
+{"bigger_location":"OMV-Tankstelle","zipcode":"80939","city":"München","street":"Freisinger Landstr. 9","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"OMV-Tankstelle","zipcode":"81247","city":"München","street":"Verdistr. 68","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"OMV-Tankstelle","zipcode":"86720","city":"Nördlingen","street":"Augsburger Str. 42","location":"Shop Sparerker"}
+,
+{"bigger_location":"OMV-Tankstelle","zipcode":"93049","city":"Regensburg","street":"Prüfeninger Str. 43","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"OMV-Tankstelle","zipcode":"93128","city":"Regenstauf","street":"Regensburger Str. 30","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"OMV-Tankstelle","zipcode":"94315","city":"Straubing","street":"Landshuter Str. 101","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Ostsee Park","zipcode":"18069","city":"Lambrechtshagen","street":"Ostsee-Park-Str. 3","location":"Mall seperater Raum Wandeinbau"}
+,
+{"bigger_location":"Paunsdorf Center","zipcode":"04329","city":"Leipzig","street":"Paunsdorfer Allee 1","location":""}
+,
+{"bigger_location":"Penny-Markt","zipcode":"01683","city":"Nossen","street":"Fabrikstraße 5","location":""}
+,
+{"bigger_location":"Penny-Markt","zipcode":"08304","city":"Schönheide","street":"Eibenstocker Straße 28a","location":""}
+,
+{"bigger_location":"PF-Tankstelle","zipcode":"47608","city":"Geldern","street":"Geldertor 6","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Plauen Park","zipcode":"08525","city":"Plauen","street":"Alte Joessnitzer  Straße 30","location":"Mall"}
+,
+{"bigger_location":"PM Tankstelle","zipcode":"42103","city":"Wuppertal","street":"Bundesallee 76","location":"Wandeinbau Shop"}
+,
+{"bigger_location":"Promenaden Hauptbahnhof Leipzig","zipcode":"04109","city":"Leipzig","street":"Willy-Brandt-Platz 7","location":"EG Ausgang Wintergartenstraße"}
+,
+{"bigger_location":"Rasthof Wörth","zipcode":"84109","city":"Wörth an der Isar","street":"Luitpoldpark 2","location":"Eingangsbereich"}
+,
+{"bigger_location":"Rathaus Galerie","zipcode":"41539","city":"Dormagen","street":"Kölner Str. 96 - 100","location":"Mall"}
+,
+{"bigger_location":"Ring-Center II","zipcode":"10365","city":"Berlin","street":"Frankfurter Allee 113","location":"Indoor Durchgang zu Kaufhof"}
+,
+{"bigger_location":"Rödertalpark","zipcode":"01900","city":"Großröhrsdorf","street":"Pulsnitzer Str. 16","location":"Im Mallbereich"}
+,
+{"bigger_location":"Sachsen-Allee-Center","zipcode":"09130","city":"Chemnitz","street":"Thomas-Mann-Platz 1b","location":"bei den Aufzügen im 1.OG in einer Nische"}
+,
+{"bigger_location":"Saturn","zipcode":"86316","city":"Friedberg","street":"Hans-Seemüller-Straße 1","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"01067","city":"Dresden","street":"Webergasse 1","location":"1.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"08056","city":"Zwickau","street":"Äußere Schneeberger Str. 95","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"09111","city":"Chemnitz","street":"Neumarkt 2","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"09247","city":"Chemnitz","street":"Ringstr. 3","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"10789","city":"Berlin","street":"Tauentzienstraße 9","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"12435","city":"Berlin","street":"Elsenstr. 111 - 114","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"14169","city":"Berlin","street":"Clayallee 328","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"18055","city":"Rostock","street":"Kröpeliner Str. 54","location":"1. OG, Kröpeliner Tor-Center"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"28195","city":"Bremen","street":"Papenstr. 5","location":"3. OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"28279","city":"Bremen","street":"Steinsetzer Str. 15","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"30159","city":"Hannover","street":"Ernst-August-Platz 3","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"32547","city":"Bad Oeynhausen","street":"Mindener Str. 22","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"34117","city":"Kassel","street":"Königsplatz 61","location":"3. OG, City Point Kassel"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"37073","city":"Göttingen","street":"Weender Str. 75","location":"Im Eingangsbereich"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"38440","city":"Wolfsburg","street":"Porschestr. 45, Lilen-Carré","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"39104","city":"Magdeburg","street":"Ernst-Reuter-Allee 11","location":"1. OG Allee-Center"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"40212","city":"Düsseldorf","street":"Königsallee 56 ","location":"3.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"40233","city":"Düsseldorf","street":"Werdener Str. 87","location":"4.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"42103","city":"Wuppertal","street":"Neumarkt 1","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"44339","city":"Dortmund","street":"Evinger Str. 170","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"44532","city":"Lünen","street":"Willy-Brand-Platz 6","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"44787","city":"Bochum","street":"Kortumstr. 72-74","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"45127","city":"Essen","street":"Limbecker Platz 1a","location":"Obergeschoss"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"45472","city":"Mülheim","street":"Humboldtring 13, Rhein-Ruhr-Centrum","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"45525","city":"Hattingen","street":"Reschop-Carré-Platz 1","location":"UG Reschop-Carre"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"45894","city":"Gelsenkirchen","street":"Marienstraße 14","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"46047","city":"Oberhausen","street":"Centroallee 4","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"46483","city":"Wesel","street":"Kreuzstr. 13","location":"Mall"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"47441","city":"Moers","street":"Homberger Str. 20 - 22","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"47533","city":"Kleve","street":"Stechbahn 19 - 23","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"47798","city":"Krefeld","street":"Neusser Str. 35","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"49074","city":"Osnabrück","street":"Kamp 50","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"50354","city":"Hürth","street":"Theresienhöhe 56","location":"UG EKZ Hürth Park"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"50667","city":"Köln","street":"Hohe Str. 41 - 53","location":"4.OG beim Servicebereich"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"51143","city":"Köln","street":"Josefstr. 12","location":"1.OG CityCenter"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"53879","city":"Euskirchen","street":"Veybachstr. 3","location":"1.OG Veybach-Center"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"54290","city":"Trier","street":"Simeonstr. 53","location":"3.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"55116","city":"Mainz","street":"Am Brand 41","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"56070","city":"Koblenz","street":"An der Römervilla 3","location":"3. OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"57072","city":"Siegen","street":"Am Bahnhof 40","location":"UG City Center"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"60313","city":"Frankfurt am Main","street":"Zeil 106-110","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"61348","city":"Bad Homburg","street":"Louisenstraße 90","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"63263","city":"Neu-Isenburg","street":"Hermesstr. 4","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"63450","city":"Hanau","street":"Kurt-Blaum-Platz 8","location":"2. OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"65183","city":"Wiesbaden","street":"Louisenforum Kirchgasse 6","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"65189","city":"Wiesbaden","street":"Bahnhofsplatz 3","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"66111","city":"Saarbrücken","street":"Trierer Straße 1 / Europa Galerie Saarbrücken","location":"Europa Galerie"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"67059","city":"Ludwigshafen","street":"Rathausplatz 20","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"67663","city":"Kaiserslautern","street":"Merkurstr. 62 - 64","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"68161","city":"Mannheim","street":"N7","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"69115","city":"Heidelberg","street":"Sofienstraße 5","location":"Darmstädter Hof"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"71229","city":"Leonberg","street":"Leonberger Str. 98 - 108","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"72070","city":"Tübingen","street":"Schleifmühleweg 36","location":"1.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"72770","city":"Reutlingen","street":"Ferdinand-Lasalle-Str. 7","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"74172","city":"Neckarsulm","street":"Rötelstr. 33","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"75179","city":"Pforzheim","street":"Karlsruher Str. 51 - 57","location":"Eingangsbereich"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"76133","city":"Karlsruhe","street":"Kaiserstr. 146 - 148","location":"1.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"79098","city":"Freiburg","street":"Schiffstr. 5 - 9","location":"1.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"80993","city":"München","street":"Hanauer Str. 77","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"81737","city":"München","street":"Ollenhauerstr. 6","location":"1.OG"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"85057","city":"Ingolstadt","street":"Am Westpark 7","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"85356","city":"Freising","street":"Isarstr. 1","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"90403","city":"Nürnberg","street":"Vordere Ledergasse 30","location":"im Eingangsbereich"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"90762","city":"Fürth","street":"Würzburger Str. 6","location":""}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"91052","city":"Erlangen","street":"Nürnberger Str. 7","location":"Erlangen Arcaden"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"99084","city":"Erfurt","street":"Anger 1 - 3","location":"4. OG, EKZ Am Anger"}
+,
+{"bigger_location":"Saturn Electro-Markt","zipcode":"99423","city":"Weimar","street":"Friedensstr. 1","location":""}
+,
+{"bigger_location":"Schön Klinik","zipcode":"22081","city":"Hamburg","street":"Dehnhaide 120","location":"Im Foyer der Klinik, Haus 7, Empfangsbereich."}
+,
+{"bigger_location":"Schwarzwaldcenter","zipcode":"72250","city":"Freudenstadt","street":"Ludwig-Jahn-Straße 3","location":""}
+,
+{"bigger_location":"Spandau Arkaden","zipcode":"13581","city":"Berlin","street":"Klosterstraße 3","location":""}
+,
+{"bigger_location":"Stadtgalerie","zipcode":"58452","city":"Witten","street":"Hammerstraße 9 - 11","location":"auf der Mall"}
+,
+{"bigger_location":"Stadtgalerie Heilbronn","zipcode":"74072","city":"Heilbronn","street":"Deutschhofstr. 19","location":"1.OG"}
+,
+{"bigger_location":"Star Tankstelle","zipcode":"12683","city":"Berlin","street":"Altentreptower Str. 2","location":"Shop Sparerker"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"01239","city":"Dresden","street":"Dohnaer Str. 184","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"01773","city":"Altenberg","street":"Dresdner Str. 15","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"01809","city":"Heidenau","street":"Hauptstr. 7","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"04159","city":"Leipzig","street":"Georg-Schumann-Str. 392","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"04626","city":"Schmölln","street":"Ronneburger Str. 116","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"06130","city":"Halle (Saale)","street":"Dieselstr. 59","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"06132","city":"Halle (Saale)","street":"Merseburger Str. 322","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"07318","city":"Saalfeld","street":"Christian-Wagner-Straße 10","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"09123","city":"Chemnitz","street":"Wolgograder Allee 2a","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"10315","city":"Berlin","street":"Rhinstr. 47","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"10365","city":"Berlin","street":"Siegfriedstr. 170","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"12207","city":"Berlin","street":"Königsberger Str. 25 A","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"16321","city":"Bernau","street":"Schwanebecker Chaussee 9a","location":"Fenstereinbau Büro"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"16515","city":"Oranienburg","street":"Berliner Str. 73","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"16775","city":"Löwenberger Land","street":"Berliner Str. 5","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"22525","city":"Hamburg","street":"Kieler Str. 206","location":"Fenstereinbau Büro / GAA im Pächterbüro, nur von 9:00-14:00 zugänglich"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"28329","city":"Bremen","street":"In der Vahr 72","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"30179","city":"Hannover","street":"Sahlkamp 7","location":"Wandeinbau Lager"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"39122","city":"Magdeburg","street":"Alt Salbke 60 - 63","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"45276","city":"Essen","street":"Bochumer Landstr. 184","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"48165","city":"Münster","street":"Westfalenstr. 186","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"50389","city":"Wesseling","street":"Hubertusstr. 3","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"79098","city":"Schleiz","street":"Plauensche Str. 1","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"99310","city":"Arnstadt","street":"Ichtershäuser Str. 67","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Star-Tankstelle","zipcode":"99610","city":"Sömmerda","street":"Frohndorfer Str. 78","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Stern-Center Potsdam","zipcode":"14480","city":"Potsdam","street":"Nuthestr.","location":"Mall rechts neben Eingang real"}
+,
+{"bigger_location":"Südring Center","zipcode":"15834","city":"Rangsdorf","street":"Klein-Kienitzer Str. 2","location":"Mall seperater Raum"}
+,
+{"bigger_location":"Sun Oil","zipcode":"13089","city":"Berlin","street":"Prenzlauer Promenade 70","location":"Shop rechts neben Tür"}
+,
+{"bigger_location":"Sun Oil","zipcode":"13509","city":"Berlin","street":"Waidmannsluster Damm 54","location":"Shop Sparerker"}
+,
+{"bigger_location":"T.E.C.","zipcode":"99099","city":"Erfurt","street":"Hermsdorfer Str. 4","location":"Mall Wandnische"}
+,
+{"bigger_location":"Tamoil-Tankstelle","zipcode":"12555","city":"Berlin","street":"Kaulsdorfer Str. 124 - 126","location":"Fenstereinbau Büro / GAA im Pächterbüro"}
+,
+{"bigger_location":"Team Tankstelle","zipcode":"23966","city":"Wismar","street":"Querstraße 1","location":"Shop"}
+,
+{"bigger_location":"TLG KulturBrauerei","zipcode":"10435","city":"Berlin","street":"Schönhauser Allee 36 / Haus 1","location":"Gebäude 2.1 gegenüber vom Kinoeingang"}
+,
+{"bigger_location":"Total-Tankstelle","zipcode":"06794","city":"Sandersdorf","street":"BAB Ost / A9","location":"Lagerraum Wanddurchbruch"}
+,
+{"bigger_location":"TÜV Rheinland","zipcode":"51105","city":"Köln","street":"Am Grauen Stein","location":"Indoor vor der Kantine"}
+,
+{"bigger_location":"UFA-Palast","zipcode":"70191","city":"Stuttgart","street":"Rosensteinstr. 20","location":"Mall"}
+,
+{"bigger_location":"Vechte Arkaden","zipcode":"48529","city":"Nordhorn","street":"Hagenstraße 10","location":""}
+,
+{"bigger_location":"Wegedorn-Zentrum","zipcode":"12524","city":"Berlin","street":"Semmelweißstraße 105","location":"Outdoor Eingangsbereich"}
+]

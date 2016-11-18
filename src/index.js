@@ -1,6 +1,8 @@
 var gen = require('random-seed');
 var express = require('express');
 
+var random = require('./random.js');
+
 function generateFakeData(id) {
   var rng = gen.create(id);
 
@@ -9,21 +11,29 @@ function generateFakeData(id) {
   };
 }
 
-function randomBoolean(rng) {
-  return rng.random() >= 0.5;
+function getATMsForZipcode(zipcode) {
+  var atms = [];
+  var json = require('../assets/atm.json');
+
+  for (var atm of json) {
+    if (atm.zipcode == zipcode) {
+      atms.push(enrichWithType('atm', atm));
+    }
+  }
+
+  return atms;
 }
 
-function randomAge(rng) {
-  return rng.intBetween(1, 100);
+function enrichWithType(type, object) {
+  object.type = type;
+  return object;
 }
 
-function randomLastLogin(rng) {
-  return rng.intBetween(0, 300);
-}
-
-function randomArrayValue(rng, arr) {
-  const max = arr.length - 1;
-  return arr[rng.intBetween(0, max)];
+function formatList(type, arr) {
+  return {
+    "type": "list." + type,
+    "data": arr,
+  };
 }
 
 function buildServer() {
@@ -31,10 +41,11 @@ function buildServer() {
 
   app.use('/static', express.static('assets'));
 
-  // app.get('/users/:id', function(req, res) {
-  //   var fakeUser = generateFakeData(req.params.id);
-  //   res.send(JSON.stringify(fakeUser));
-  // });
+  app.get('/atms/zipcode/:zipcode', function(req, res) {
+    var atms = getATMsForZipcode(req.params.zipcode);
+    var formatted = formatList('atm', atms);
+    res.send(JSON.stringify(formatted));
+  });
 
   return app;
 }
