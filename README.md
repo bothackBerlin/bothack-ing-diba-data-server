@@ -28,3 +28,12 @@ Response:
   ]
 }
 ```
+
+## Starting the server
+
+Clone this repo and run:
+
+```bash
+yarn # or your classic `npm install`
+node bin/server
+```
